@@ -15,9 +15,11 @@ Financial Decision-Making and Politics
 
 Public Opinion and Voting Behavior
 ---
-“The effect of polarization on perceptions of welfare deservingness” With Clareta Treger. [[Pre-registration and pre-analysis plan]](https://osf.io/7bgzm/)
+“The effect of polarization on perceptions of welfare deservingness” With Clareta Treger. 
+[[Pre-registration and pre-analysis plan]](https://osf.io/7bgzm/)
 
-“Do Voters Reward Eurosceptic Governments?” With Tal Sadeh. [[Pre-registration and pre-analysis plan]](https://osf.io/CB4ZQ/)
+“Do Voters Reward Eurosceptic Governments?” With Tal Sadeh. 
+[[Pre-registration and pre-analysis plan]](https://osf.io/CB4ZQ/)
 
 “Unraveling Trust in Times of Crisis: The impact of threat perceptions on political trust.” With Keren LG Snider and Benjamin Amram.
 
