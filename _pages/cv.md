@@ -9,5 +9,3 @@ redirect_from:
 
 <a href= "https://galbitton5.github.io/files/CV_230824.pdf">CV</a>
 
-[My Profile](/my_profile.jpg)
-
