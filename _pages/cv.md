@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# <a href= "https://galbitton5.github.io/files/CV_230824.pdf">CV</a>
