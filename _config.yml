@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gal Bitton"
-  avatar           : my_profile.jpg
+  avatar           : images/my-profile.jpg
   bio              : "Political Scientist"
   location         : "Tel Aviv, Israel"
   employer         :
