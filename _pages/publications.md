@@ -13,13 +13,11 @@ Financial Decision-Making and Politics
 
 “The Premium of Familiarity: Experimental Evidence on Financial Interactions Between Foreigners”. 
 
-“The Social Economic Roots of Currency Internationalization: The Case of Emerging Power.”
-
 Public Opinion and Voting Behavior
 ---
-“The effect of polarization on perceptions of welfare deservingness” With Clareta Treger. 
+“The effect of polarization on perceptions of welfare deservingness” With Clareta Treger. [[Pre-registration and pre-analysis plan]](https://osf.io/7bgzm/)
 
-“Do Voters Reward Eurosceptic Governments?” With Tal Sadeh.
+“Do Voters Reward Eurosceptic Governments?” With Tal Sadeh. [[Pre-registration and pre-analysis plan]](https://osf.io/CB4ZQ/)
 
 “Unraveling Trust in Times of Crisis: The impact of threat perceptions on political trust.” With Keren LG Snider and Benjamin Amram.
 
