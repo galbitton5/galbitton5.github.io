@@ -9,7 +9,7 @@ author_profile: true
 
 Financial Decision-Making and Politics
 ---
-“How Does Cultural Identity Shape Financial Policies? A Macro-Level Analysis Using Instrumental Variables.” 
+“How Does Cultural Identity Shape Financial Policies? A Macro-Level Analysis Using Instrumental Variables.” (Under Review)
 
 “The Premium of Familiarity: Experimental Evidence on Financial Interactions Between Foreigners.”
 
@@ -18,7 +18,7 @@ Public Opinion and Voting Behavior
 “The effect of polarization on perceptions of welfare deservingness.” With Clareta Treger. 
 [[Pre-registration and pre-analysis plan]](https://osf.io/7bgzm/)
 
-“Do Voters Reward Eurosceptic Governments?” With Tal Sadeh. 
+“Do Voters Reward Eurosceptic Governments?” With Tal Sadeh (Under Review). 
 [[Pre-registration and pre-analysis plan]](https://osf.io/CB4ZQ/)
 
 “Unraveling Trust in Times of Crisis: The impact of threat perceptions on political trust.” With Keren LG Snider and Benjamin Amram.
