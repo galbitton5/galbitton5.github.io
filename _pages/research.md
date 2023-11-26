@@ -11,7 +11,8 @@ Financial Decision-Making and Politics
 ---
 “How Does Cultural Identity Shape Financial Policies? A Macro-Level Analysis Using Instrumental Variables.” (Under Review)
 
-“The Premium of Familiarity: Experimental Evidence on Financial Interactions Between Foreigners.”
+“The Premium of Familiarity: Experimental Evidence on Financial Interactions Between Foreigners.” 
+[[Pre-registration and pre-analysis plan]](https://osf.io/ep36v)
 
 Public Opinion and Voting Behavior
 ---
