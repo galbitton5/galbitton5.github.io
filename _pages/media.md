@@ -24,5 +24,5 @@ Responsibility at Reichman, 2023. Available online [here](https://www.runi.ac.il
 Responsibility at Reichman, 2023. Available online [here](https://www.runi.ac.il/media/mxklwsyh/override-clause-gal-bitton-230704.pdf).
 * Bitton, G. “Jewish Identity or Democratic Values - What Do Israelis Prefer?” The Institute for Liberty &
 Responsibility at Reichman, 2023. Available online [here](https://www.runi.ac.il/media/yi0fsna0/jewish-democratic-bitton-11-2023.pdf).
-* Bitton, G. “Trust Crisis in the Israeli Public?” The Institute for Liberty & Responsibility at Reichman,
-2022. Available online [here](https://www.runi.ac.il/media/5pkjz1ii/crisis-trust-israeli-public.pdf).
+* Bitton, G. “Trust Crisis in the Israeli Public?” The Institute for Liberty &
+Responsibility at Reichman, 2022. Available online [here](https://www.runi.ac.il/media/5pkjz1ii/crisis-trust-israeli-public.pdf).
