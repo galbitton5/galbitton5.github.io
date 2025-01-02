@@ -6,18 +6,23 @@ author_profile: true
 ---
 
 <style>
-  /* Styles for the new toggle system */
   .project {
-    margin-bottom: 1.5em;
+    margin-bottom: 1em;
   }
   .project-title {
     font-weight: normal;
+    margin-bottom: 0.25em; 
+  }
+  .project-links {
+  margin-bottom: 0.25em; 
   }
   .toggle-abstract {
-    cursor: pointer;
-    color: #007acc;
-    font-size: 0.9em;
-    text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  color: #007acc;
+  font-size: 0.9em;
+  margin-left: 0.5em; /* Add a small gap from the links */
+  text-decoration: none;
   }
   .abstract {
     display: none; /* Ensures abstracts are hidden by default */
@@ -27,6 +32,7 @@ author_profile: true
   }
 </style>
 
+%<style> details { float:left; cursor: pointer; &:hover { color: #fff; background-color: #b21619 !important; } } details > summary { display: inline-block; margin-bottom: 0.25em; padding: 0.125em 0.25em; color: #b21619; text-align: center; text-decoration: none !important; border: 1px solid; border-color: #b21619; border-radius: 4px; cursor: pointer; } details > summary::-webkit-details-marker { display: none; float:left; } details > p { margin-bottom: 0.25em; padding: 0.125em 0.25em; box-shadow: 1px 1px 2px #bbbbbb; } </style>
 
 Financial Decision-Making and Politics
 ---
