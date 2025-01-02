@@ -22,7 +22,7 @@ author_profile: true
   .toggle-abstract {
     display: inline;
     cursor: pointer;
-    color: #007acc;
+    color: black;
     font-size: 0.9em;
     margin-left: 0.5em; /* Add small gap from the links */
     text-decoration: none;
