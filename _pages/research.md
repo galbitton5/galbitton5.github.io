@@ -5,7 +5,28 @@ permalink: /research/
 author_profile: true
 ---
 
-<style> details { float:left; cursor: pointer; &:hover { color: #fff; background-color: #b21619 !important; } } details > summary { display: inline-block; margin-bottom: 0.25em; padding: 0.125em 0.25em; color: #b21619; text-align: center; text-decoration: none !important; border: 1px solid; border-color: #b21619; border-radius: 4px; cursor: pointer; } details > summary::-webkit-details-marker { display: none; float:left; } details > p { margin-bottom: 0.25em; padding: 0.125em 0.25em; box-shadow: 1px 1px 2px #bbbbbb; } </style>
+<style>
+  /* Styles for the new toggle system */
+  .project {
+    margin-bottom: 1.5em;
+  }
+  .project-title {
+    font-weight: bold;
+  }
+  .toggle-abstract {
+    cursor: pointer;
+    color: #007acc;
+    font-size: 0.9em;
+    text-decoration: none;
+  }
+  .abstract {
+    display: none; /* Ensures abstracts are hidden by default */
+    margin-top: 0.5em;
+    color: #555;
+    font-size: 0.9em;
+  }
+</style>
+
 
 Financial Decision-Making and Politics
 ---
@@ -19,7 +40,7 @@ Financial Decision-Making and Politics
 
 <div class="project">
   <p class="project-title">“The Premium of Familiarity: Experimental Evidence on Financial Interactions Between Foreigners.”</p>
-  <a class="toggle-abstract">▶ Show abstract</a>
+  <a href="https://osf.io/ep36v" class="toggle-abstract">▶ Show abstract</a>
   <div class="abstract">
     <p>What drives individuals to engage financially with certain foreign entities while avoiding others? This paper examines the role of cultural identity in financial decision-making on a global scale, with cues of cultural similarity or difference triggering cognitive biases toward in-group favoritism. Through a pre-registered behavioral experiment with a nationally representative U.S. sample, I investigate how cultural proximity and diversity affect individuals' willingness to engage financially with foreign entities across varying degrees of perceived ‘out-group’ status—and how these interactions influence preferences regarding foreign economic presence in the local market. Findings reveal that in-group favoritism strongly shapes financial behavior and attitudes, leading to biases that can undermine democratic values, social cohesion, and human capital. By uncovering the roots of cooperation—and barriers to it—this study sheds light on essential dynamics that affect both domestic society and international relations.</p>
   </div>
