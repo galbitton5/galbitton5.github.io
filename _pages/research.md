@@ -11,7 +11,7 @@ author_profile: true
     margin-bottom: 1.5em;
   }
   .project-title {
-    font-weight: bold;
+    font-weight: normal;
   }
   .toggle-abstract {
     cursor: pointer;
@@ -66,7 +66,7 @@ Public Opinion and Voting Behavior
 <div class="project">
   <p class="project-title">“Shifting Sands: The Impact of Conflict Displacement on Voting Patterns”.</p>
   <p>
-    <a href="https://osf.io/7bgzm/" target="_blank">[Pre-registration and pre-analysis plan]</a>
+    <a href="https://osf.io/6sknz" target="_blank">[Pre-registration and pre-analysis plan]</a>
   </p>
   <a class="toggle-abstract">▶ Abstract</a>
   <div class="abstract">
