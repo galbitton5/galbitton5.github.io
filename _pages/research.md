@@ -43,7 +43,7 @@ author_profile: true
 Financial Decision-Making and Politics
 ---
 <div class="project">
-  <p class="project-title">“How Does Cultural Identity Shape Global Financial Engagements?” (Under Review)</p>
+  <p class="project-title">“How Does Cultural Identity Shape Global Financial Engagements?” _(Under Review)_</p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
@@ -66,7 +66,7 @@ Financial Decision-Making and Politics
 Public Opinion and Voting Behavior
 ---
 <div class="project">
-  <p class="project-title">“The Welfare Consequences of Political Rivalry in a Polarized Era.” With Clareta Treger. (Under Review)</p>
+  <p class="project-title">“The Welfare Consequences of Political Rivalry in a Polarized Era.” With Clareta Treger. _(Under Review)_</p>
   <p class="project-links">
     <a href="https://osf.io/7bgzm/" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a href="https://osf.io/preprints/osf/upqs8/" target="_blank">[Pre-print]</a>
@@ -89,7 +89,7 @@ Public Opinion and Voting Behavior
 </div>
 
 <div class="project">
-  <p class="project-title">“Who Gets the Blame? Public opinion and bank-supervision in the EU.” With Tal Sadeh, Yuval Hirshorn, and Benjamin Daßler. (Under Review)</p>
+  <p class="project-title">“Who Gets the Blame? Public opinion and bank-supervision in the EU.” With Tal Sadeh, Yuval Hirshorn, and Benjamin Daßler. _(Under Review)_</p>
   <p class="project-links">
     <a href="https://osf.io/4afq8/" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a class="toggle-abstract">▶ Abstract</a>
