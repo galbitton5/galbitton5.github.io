@@ -43,7 +43,7 @@ author_profile: true
 Financial Decision-Making and Politics
 ---
 <div class="project">
-  <p class="project-title">“How Does Cultural Identity Shape Global Financial Engagements?” _(Under Review)_</p>
+  <p class="project-title">“How Does Cultural Identity Shape Global Financial Engagements?” (<em>Under Review</em>)</p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
@@ -66,7 +66,7 @@ Financial Decision-Making and Politics
 Public Opinion and Voting Behavior
 ---
 <div class="project">
-  <p class="project-title">“The Welfare Consequences of Political Rivalry in a Polarized Era.” With Clareta Treger. _(Under Review)_</p>
+  <p class="project-title">“The Welfare Consequences of Political Rivalry in a Polarized Era.” With Clareta Treger. (<em>Under Review</em>)</p>
   <p class="project-links">
     <a href="https://osf.io/7bgzm/" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a href="https://osf.io/preprints/osf/upqs8/" target="_blank">[Pre-print]</a>
@@ -89,13 +89,13 @@ Public Opinion and Voting Behavior
 </div>
 
 <div class="project">
-  <p class="project-title">“Who Gets the Blame? Public opinion and bank-supervision in the EU.” With Tal Sadeh, Yuval Hirshorn, and Benjamin Daßler. _(Under Review)_</p>
+  <p class="project-title">“Who Gets the Blame? Public opinion and bank-supervision in the EU.” With Tal Sadeh, Yuval Hirshorn, and Benjamin Daßler. (<em>Under Review</em>)</p>
   <p class="project-links">
     <a href="https://osf.io/4afq8/" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
   <div class="abstract">
-    <p>TThe 2010-12 European banking crisis triggered severe recessions, job losses, and austerity measures. In response, member states delegated some bank-supervision authority to the European Union (EU). We argue that this delegation enables governments to shift blame for bank failures to the EU. This blame-shifting strategy shapes public opinion, altering perceptions of who is accountable for economic failures. Using a conjoint survey experiment with 1,724 participants in Germany, a least likely country for our argument, we find that a hypothetical taxpayer-funded bailout reduces support for governing parties by 18 percent on average when national authorities are mainly responsible for bank-supervision, but this effect disappears when the EU assumes a dominant role. This effect exists across the gender, regional, socio-economic, education, and left-right divides, across varying levels of exposure to banks, and regardless of whether people know that the German bank regulator (Bafin) is independent from the government. However, the blame avoidance effect is especially pronounced in people who are young, live in poor Länder, are university graduates, do not trust national institutions, or have pro-EU views. EU-level bank-supervision failure actually increases public support for non-government Eurosceptic parties, but is detrimental for left-wing or Eurosceptic governments, especially extreme ones. Thus, this study helps explore key patterns of public support for governments that delegate policies to the EU, and by implication support for delegation itself, across geographical spaces and social groups. This is also a study of the implications, in terms of public support for delegation, of IO-related outcomes such as bank- supervisions.</p>
+    <p>The 2010-12 European banking crisis triggered severe recessions, job losses, and austerity measures. In response, member states delegated some bank-supervision authority to the European Union (EU). We argue that this delegation enables governments to shift blame for bank failures to the EU. This blame-shifting strategy shapes public opinion, altering perceptions of who is accountable for economic failures. Using a conjoint survey experiment with 1,724 participants in Germany, a least likely country for our argument, we find that a hypothetical taxpayer-funded bailout reduces support for governing parties by 18 percent on average when national authorities are mainly responsible for bank-supervision, but this effect disappears when the EU assumes a dominant role. This effect exists across the gender, regional, socio-economic, education, and left-right divides, across varying levels of exposure to banks, and regardless of whether people know that the German bank regulator (Bafin) is independent from the government. However, the blame avoidance effect is especially pronounced in people who are young, live in poor Länder, are university graduates, do not trust national institutions, or have pro-EU views. EU-level bank-supervision failure actually increases public support for non-government Eurosceptic parties, but is detrimental for left-wing or Eurosceptic governments, especially extreme ones. Thus, this study helps explore key patterns of public support for governments that delegate policies to the EU, and by implication support for delegation itself, across geographical spaces and social groups. This is also a study of the implications, in terms of public support for delegation, of IO-related outcomes such as bank- supervisions.</p>
   </div>
 </div>
 
