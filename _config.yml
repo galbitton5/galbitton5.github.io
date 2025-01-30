@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gal Bitton"
 title_separator          : "-"
 name                     : &name "Gal Bitton"
-description              : &description "PhD Candidate, Tel Aviv University"
+description              : &description "Postdoctoral researche, Harvard University"
 url                      : https://galbitton5.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "galbitton5.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Gal Bitton"
   avatar           : https://i.postimg.cc/qM6MXQys/Whats-App-2023-08-24-22-38-40.jpg
   bio              : "Political Scientist"
-  location         : "Tel Aviv, Israel"
+  location         : "Cambridge, US"
   employer         :
   pubmed           : 
   googlescholar    : 
