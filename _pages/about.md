@@ -20,13 +20,24 @@ More broadly, I am interested in political economy, political behavior, and voti
 
 ## 📸 Memorable Moments
 
-Here are some key moments captured on camera:
+<p>Here are some key moments captured on camera:</p>
 
-![PEIO Conference 2025](/images/photo1.jpg){: width="300px"}
-*Presenting my research at PEIO 2025.*
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <div style="text-align: center; width: 32%;">
+        <img src="/images/PEIO2025.jpg" alt="Presenting at PEIO 2025" width="100%">
+        <p><em>Presenting at PEIO 2025.</em></p>
+    </div>
+    <div style="text-align: center; width: 32%;">
+        <img src="/images/photo1.jpg" alt="Panel discussion at Harvard" width="100%">
+        <p><em>Azrieli Forum.</em></p>
+    </div>
+    <div style="text-align: center; width: 32%;">
+        <img src="/images/photo2.jpg" alt="Teaching at Tel Aviv University" width="100%">
+        <p><em>Azrieli Forum.</em></p>
+    </div>
+    <div style="text-align: center; width: 32%;">
+        <img src="/images/photo3.jpg" alt="Teaching at Tel Aviv University" width="100%">
+        <p><em>Azrieli Forum.</em></p>
+    </div>
+</div>
 
-![Panel at Harvard](/images/photo2.jpg){: width="300px"}
-*Panel discussion at Harvard on financial policy.*
-
-![Teaching at Tel Aviv University](/images/photo3.jpg){: width="300px"}
-*Teaching a course at Tel Aviv University.*
