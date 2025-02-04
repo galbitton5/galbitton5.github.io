@@ -24,7 +24,7 @@ More broadly, I am interested in political economy, political behavior, and voti
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <div style="text-align: center; width: 32%;">
-        <img src="/images/PEIO2025.jpg" alt="Presenting at PEIO 2025" width="100%">
+        <img src="/images/PEIO2025.JPG" alt="Presenting at PEIO 2025" width="100%">
         <p><em>Presenting at PEIO 2025.</em></p>
     </div>
     <div style="text-align: center; width: 32%;">
