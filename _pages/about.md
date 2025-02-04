@@ -22,11 +22,11 @@ More broadly, I am interested in political economy, political behavior, and voti
 
 Here are some key moments captured on camera:
 
-![PEIO Conference 2025](images/photo1.jpg){: width="300px"}
+![PEIO Conference 2025](photo1.jpg){: width="300px"}
 *Presenting my research at PEIO 2025.*
 
-![Panel at Harvard](images/photo2.jpg){: width="300px"}
+![Panel at Harvard](photo2.jpg){: width="300px"}
 *Panel discussion at Harvard on financial policy.*
 
-![Teaching at Tel Aviv University](images/photo3.jpg){: width="300px"}
+![Teaching at Tel Aviv University](photo3.jpg){: width="300px"}
 *Teaching a course at Tel Aviv University.*
