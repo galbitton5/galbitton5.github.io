@@ -28,15 +28,19 @@ More broadly, I am interested in political economy, political behavior, and voti
         <p><em>Presenting at PEIO 2025.</em></p>
     </div>
     <div style="text-align: center; width: 32%;">
-        <img src="/images/photo1.jpg" alt="Panel discussion at Harvard" width="100%">
+        <img src="/images/photo1.jpg" alt="Azrieli Forum" width="100%">
+        <p><em>Azrieli Forum.</em></p>
+    </div>
+     <div style="text-align: center; width: 32%;">
+        <img src="/images/NYU2024.jpg" alt="Presenting at the 2024 Rebecca B. Morton Conference" width="100%">
         <p><em>Azrieli Forum.</em></p>
     </div>
     <div style="text-align: center; width: 32%;">
-        <img src="/images/photo2.jpg" alt="Teaching at Tel Aviv University" width="100%">
+        <img src="/images/photo2.jpg" alt="Azrieli Forumy" width="100%">
         <p><em>Azrieli Forum.</em></p>
     </div>
     <div style="text-align: center; width: 32%;">
-        <img src="/images/photo3.jpg" alt="Teaching at Tel Aviv University" width="100%">
+        <img src="/images/photo3.jpg" alt="Azrieli Forum" width="100%">
         <p><em>Azrieli Forum.</em></p>
     </div>
 </div>
