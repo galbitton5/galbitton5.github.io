@@ -18,7 +18,7 @@ More broadly, I am interested in political economy, political behavior, and voti
 
 ---
 
-## 📸 Memorable Moments
+## 📸 
 
 <p>Here are some key moments captured on camera:</p>
 
