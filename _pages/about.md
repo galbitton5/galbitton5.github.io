@@ -31,10 +31,13 @@ More broadly, I am interested in political economy, political behavior, and voti
         <img src="/images/photo1.jpg" alt="Azrieli Forum" width="100%">
         <p><em>Azrieli Forum.</em></p>
     </div>
-    <!-- Updated here: changed the caption from "Azrieli Forum." to match the alt text -->
     <div style="text-align: center; width: 32%;">
         <img src="/images/NYU2024.jpg" alt="Presenting at the 2024 Rebecca B. Morton Conference" width="100%">
         <p><em>Presenting at the 2024 Rebecca B. Morton Conference.</em></p>
+    </div>
+    <div style="text-align: center; width: 32%;">
+        <img src="/images/PolMeth2024.jpg" alt="Presenting at PolMeth 2024" width="100%">
+        <p><em>Presenting at PolMeth 2024.</em></p>
     </div>
     <div style="text-align: center; width: 32%;">
         <img src="/images/photo2.jpg" alt="Azrieli Forumy" width="100%">
