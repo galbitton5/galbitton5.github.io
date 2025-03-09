@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<a href= "https://galbitton5.github.io/files/CV_241101.pdf">CV</a>
+<a href= "https://galbitton5.github.io/files/CV_250309.pdf">CV</a>
 
