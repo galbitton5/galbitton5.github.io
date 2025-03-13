@@ -14,9 +14,14 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  background-color: $background-color;
+
+  &.dark-mode {
+    background-color: $dark-background-color;
+    color: $dark-text-color;
+  }
 
   &.overflow--hidden {
-    /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
 }
@@ -112,13 +117,14 @@ blockquote {
 /* links */
 
 a {
-  &:focus {
-    @extend %tab-focus;
-  }
+  color: $link-color;
 
-  &:hover,
-  &:active {
-    outline: 0;
+  .dark-mode & {
+    color: $dark-link-color;
+
+    &:hover {
+      color: $dark-link-color-hover;
+    }
   }
 }
 
@@ -312,4 +318,13 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+/* Navbar and Footer Background */
+.navbar, .footer {
+  background-color: $background-color;
+}
+
+.dark-mode .navbar, .dark-mode .footer {
+  background-color: $dark-background-color;
 }
