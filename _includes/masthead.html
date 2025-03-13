@@ -22,4 +22,18 @@
   </div>
 </div>
 
-<button id="dark-mode-toggle">Toggle Dark Mode</button>
+<div class="theme-switcher">
+  <!-- The main button with a moon icon -->
+  <button id="theme-button" aria-label="Change Theme" class="theme-button">
+    <span class="theme-icon">🌙</span>
+  </button>
+
+  <!-- The dropdown menu -->
+  <div id="theme-menu" class="theme-menu hidden">
+    <ul>
+      <li class="theme-option" data-theme="light">Light</li>
+      <li class="theme-option" data-theme="dark">Dark</li>
+      <li class="theme-option" data-theme="auto">Automatic</li>
+    </ul>
+  </div>
+</div>
