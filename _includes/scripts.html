@@ -5,29 +5,39 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
+    // 1. Get references to our dropdown elements
     const themeButton = document.getElementById("theme-button");
     const themeMenu = document.getElementById("theme-menu");
     const themeOptions = document.querySelectorAll(".theme-option");
 
-    // Load saved theme or default to "auto"
-    let savedTheme = localStorage.getItem("theme") || "auto";
+    // 2. Load saved theme or default to "dark"
+    //    (Change "dark" to "auto" or "light" if you prefer a different default)
+    let savedTheme = localStorage.getItem("theme") || "dark";
     setTheme(savedTheme);
 
-    // Toggle dropdown menu visibility when clicking the theme button
-    themeButton.addEventListener("click", function() {
-      themeMenu.classList.toggle("hidden");
-    });
+    // 3. Toggle dropdown menu visibility when clicking the theme button
+    if (themeButton && themeMenu) {
+      themeButton.addEventListener("click", function() {
+        themeMenu.classList.toggle("hidden");
+      });
+    } else {
+      console.warn("Theme button or menu not found. Check your HTML IDs (theme-button, theme-menu).");
+    }
 
-    // Handle theme selection from the dropdown
+    // 4. Handle theme selection from the dropdown
     themeOptions.forEach(option => {
       option.addEventListener("click", function() {
         const chosenTheme = this.getAttribute("data-theme");
         setTheme(chosenTheme);
         localStorage.setItem("theme", chosenTheme);
+        // Hide the dropdown after selection
         themeMenu.classList.add("hidden");
       });
     });
 
+    // ------------------ Theme Functions ------------------ //
+
+    // Main function to apply theme
     function setTheme(mode) {
       if (mode === "light") {
         document.body.classList.remove("dark-mode");
@@ -36,11 +46,12 @@
         document.body.classList.add("dark-mode");
         removeSystemListener();
       } else {
-        // "auto" mode: follow system preference
+        // "auto" => follow system (OS) preference
         watchSystemTheme();
       }
     }
 
+    // Watch system preference for "auto" mode
     let mediaQuery;
     function watchSystemTheme() {
       mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
@@ -60,6 +71,7 @@
       }
     }
 
+    // Remove system listener if user chooses light or dark explicitly
     function removeSystemListener() {
       if (mediaQuery) {
         mediaQuery.removeEventListener("change", onSystemThemeChange);
