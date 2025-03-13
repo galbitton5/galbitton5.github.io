@@ -328,3 +328,19 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 .dark-mode .navbar, .dark-mode .footer {
   background-color: $dark-background-color;
 }
+
+#dark-mode-toggle {
+  background: #333;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  margin: 10px;
+  font-size: 14px;
+}
+
+.dark-mode #dark-mode-toggle {
+  background: #fff;
+  color: black;
+}
