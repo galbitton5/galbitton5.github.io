@@ -1,11 +1,9 @@
 {% include base_path %}
 
 <div class="masthead">
-  <div class="masthead__inner-wrap">
-    <!-- We use a flex container to align the nav on the left and the theme switcher on the right -->
-    <div class="masthead__menu" style="display: flex; align-items: center; justify-content: space-between;">
-      
-      <!-- Navigation (left side) -->
+  <div class="masthead__inner-wrap" style="position: relative;">
+    <!-- Your existing navigation menu -->
+    <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
@@ -25,24 +23,20 @@
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
-      
-      <!-- Theme Switcher (right side) -->
-      <div class="theme-switcher">
-        <!-- The main button with a moon icon -->
-        <button id="theme-button" aria-label="Change Theme" class="theme-button">
-          <span class="theme-icon">🌙</span>
-        </button>
+    </div>
 
-        <!-- The dropdown menu -->
-        <div id="theme-menu" class="theme-menu hidden">
-          <ul>
-            <li class="theme-option" data-theme="light">Light</li>
-            <li class="theme-option" data-theme="dark">Dark</li>
-            <li class="theme-option" data-theme="auto">Automatic</li>
-          </ul>
-        </div>
+    <!-- Theme Switcher, placed absolutely at top-right -->
+    <div class="theme-switcher" style="position: absolute; top: 10px; right: 10px;">
+      <button id="theme-button" aria-label="Change Theme" class="theme-button">
+        <span class="theme-icon">🌙</span>
+      </button>
+      <div id="theme-menu" class="theme-menu hidden">
+        <ul>
+          <li class="theme-option" data-theme="light">Light</li>
+          <li class="theme-option" data-theme="dark">Dark</li>
+          <li class="theme-option" data-theme="auto">Automatic</li>
+        </ul>
       </div>
-      
-    </div><!-- /.masthead__menu -->
-  </div><!-- /.masthead__inner-wrap -->
-</div><!-- /.masthead -->
+    </div>
+  </div>
+</div>
