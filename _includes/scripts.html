@@ -2,3 +2,24 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Enable dark mode by default
+    document.body.classList.add("dark-mode");
+
+    // Toggle button for user control
+    const darkModeToggle = document.getElementById("dark-mode-toggle");
+    if (darkModeToggle) {
+      darkModeToggle.addEventListener("click", function () {
+        document.body.classList.toggle("dark-mode");
+        localStorage.setItem("dark-mode", document.body.classList.contains("dark-mode"));
+      });
+
+      // Preserve user's choice on reload
+      if (localStorage.getItem("dark-mode") === "true") {
+        document.body.classList.add("dark-mode");
+      }
+    }
+  });
+</script>
