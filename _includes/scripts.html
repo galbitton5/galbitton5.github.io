@@ -4,21 +4,65 @@
 {% include /comments-providers/scripts.html %}
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    // Enable dark mode by default
-    document.body.classList.add("dark-mode");
+  document.addEventListener("DOMContentLoaded", function() {
+    const themeButton = document.getElementById("theme-button");
+    const themeMenu = document.getElementById("theme-menu");
+    const themeOptions = document.querySelectorAll(".theme-option");
 
-    // Toggle button for user control
-    const darkModeToggle = document.getElementById("dark-mode-toggle");
-    if (darkModeToggle) {
-      darkModeToggle.addEventListener("click", function () {
-        document.body.classList.toggle("dark-mode");
-        localStorage.setItem("dark-mode", document.body.classList.contains("dark-mode"));
+    // Load saved theme or default to "auto"
+    let savedTheme = localStorage.getItem("theme") || "auto";
+    setTheme(savedTheme);
+
+    // Toggle dropdown menu visibility when clicking the theme button
+    themeButton.addEventListener("click", function() {
+      themeMenu.classList.toggle("hidden");
+    });
+
+    // Handle theme selection from the dropdown
+    themeOptions.forEach(option => {
+      option.addEventListener("click", function() {
+        const chosenTheme = this.getAttribute("data-theme");
+        setTheme(chosenTheme);
+        localStorage.setItem("theme", chosenTheme);
+        themeMenu.classList.add("hidden");
       });
+    });
 
-      // Preserve user's choice on reload
-      if (localStorage.getItem("dark-mode") === "true") {
+    function setTheme(mode) {
+      if (mode === "light") {
+        document.body.classList.remove("dark-mode");
+        removeSystemListener();
+      } else if (mode === "dark") {
         document.body.classList.add("dark-mode");
+        removeSystemListener();
+      } else {
+        // "auto" mode: follow system preference
+        watchSystemTheme();
+      }
+    }
+
+    let mediaQuery;
+    function watchSystemTheme() {
+      mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
+      applySystemTheme(mediaQuery.matches);
+      mediaQuery.addEventListener("change", onSystemThemeChange);
+    }
+
+    function onSystemThemeChange(e) {
+      applySystemTheme(e.matches);
+    }
+
+    function applySystemTheme(isDark) {
+      if (isDark) {
+        document.body.classList.add("dark-mode");
+      } else {
+        document.body.classList.remove("dark-mode");
+      }
+    }
+
+    function removeSystemListener() {
+      if (mediaQuery) {
+        mediaQuery.removeEventListener("change", onSystemThemeChange);
       }
     }
   });
