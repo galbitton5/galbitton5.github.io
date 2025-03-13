@@ -151,3 +151,12 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
+
+
+/* Dark Mode Variables */
+$dark-background-color: #121212;
+$dark-text-color: #ffffff;
+$dark-border-color: mix(#fff, $gray, 25%);
+$dark-primary-color: #bb86fc;
+$dark-link-color: lighten($dark-primary-color, 10%);
+$dark-link-color-hover: lighten($dark-primary-color, 20%);
