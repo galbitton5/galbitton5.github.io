@@ -89,7 +89,7 @@ Public Opinion and Voting Behavior
 </div>
 
 <div class="project">
-  <p class="project-title">“Who Gets the Blame? Public opinion and bank-supervision in the EU.” With Tal Sadeh, Yuval Hirshorn, and Benjamin Daßler. (<em>Under Review</em>)</p>
+  <p class="project-title">“Who Gets the Blame? Public opinion and bank-supervision in the EU.” With Tal Sadeh, Yuval Hirshorn, and Benjamin Daßler. </p>
   <p class="project-links">
     <a href="https://osf.io/4afq8/" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a class="toggle-abstract">▶ Abstract</a>
@@ -113,7 +113,7 @@ Public Opinion and Voting Behavior
 Methodological Innovations
 ---
 <div class="project">
-  <p class="project-title">“Are International Monetary Fund (IMF) programs effective? Introducing a new tool to measure effective samples’ and assess external validity of regression analysis.” With Tal Sadeh and Bernhard Reinsberg.</p>
+  <p class="project-title">“Are International Monetary Fund (IMF) programs effective? Introducing a new tool to measure effective samples’ and assess external validity of regression analysis.” With Tal Sadeh and Bernhard Reinsberg. (<em>Under Review</em>) </p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
