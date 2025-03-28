@@ -41,7 +41,7 @@ author_profile: true
 -->
 
 Financial Decision-Making and Politics
----
+----
 <div class="project">
   <p class="project-title">“How Does Cultural Identity Shape Global Financial Engagements?” (<em>Under Review</em>)</p>
   <p class="project-links">
@@ -64,7 +64,7 @@ Financial Decision-Making and Politics
 </div>
 
 Public Opinion and Voting Behavior
----
+----
 <div class="project">
   <p class="project-title">“The Welfare Consequences of Political Rivalry in a Polarized Era.” With Clareta Treger. (<em>Under Review</em>)</p>
   <p class="project-links">
@@ -111,7 +111,7 @@ Public Opinion and Voting Behavior
 </div>
 
 Methodological Innovations
----
+----
 <div class="project">
   <p class="project-title">“Are International Monetary Fund (IMF) programs effective? Introducing a new tool to measure effective samples’ and assess external validity of regression analysis.” With Tal Sadeh and Bernhard Reinsberg. (<em>Under Review</em>) </p>
   <p class="project-links">
