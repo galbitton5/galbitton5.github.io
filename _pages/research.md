@@ -53,7 +53,7 @@ Financial Decision-Making and Politics
 </div>
 
 <div class="project">
-  <p class="project-title">“The Premium of Familiarity: Experimental Evidence on Financial Interactions Between Foreigners.”</p>
+  <p class="project-title">“The Premium of Familiarity: Experimental Evidence on Financial Interactions Between Foreigners.” (<em>Under Review</em>)</p>
   <p class="project-links">
     <a href="https://osf.io/ep36v" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a class="toggle-abstract">▶ Abstract</a>
@@ -65,6 +65,16 @@ Financial Decision-Making and Politics
 
 Public Opinion and Voting Behavior
 ----
+<div class="project">
+  <p class="project-title">“Rally Around the Winner – A Two-Wave Panel Survey on the Impact of the U.S. Election on Foreign Policy Stances.”International Journal of Public Opinion Research. With Eyal Rubinson. </p>
+  <p class="project-links">
+    <a class="toggle-abstract">▶ Abstract</a>
+  </p>
+  <div class="abstract">
+    <p>Do electoral outcomes influence public support for the winning candidate’s policy agenda? While voters are often assumed to evaluate candidates based on policy alignment, research suggests that partisan identity frequently overrides rational assessment. However, the extent to which the identity of the electoral winner legitimizes policy positions – particularly in the field of foreign policy – remains underexplored. This article leverages the 2024 U.S. presidential election as a natural experiment, using a pre-registered two-wave panel survey to assess whether electoral victory influences public perceptions of the winning candidate’s platform. Results reveal a moderate ‘winner effect’: Democratic voters exhibited an increase in support for Trump’s foreign policy positions post-election, while support for Harris declined, even among her base. Nevertheless, winner effects produced shifts in foreign policy preferences commensurate with those on a highly salient domestic issue, challenging assumptions about greater volatility in foreign policy. Furthermore, pre-election candidate support conditioned post-election stability, with winning-party supporters maintaining greater consistency. While electoral victories enhance the perceived legitimacy of the winner’s platform, partisan identity remains the primary constraint, limiting large-scale ideological realignment.</p>
+  </div>
+</div>
+
 <div class="project">
   <p class="project-title">“The Welfare Consequences of Political Rivalry in a Polarized Era.” With Clareta Treger. (<em>Under Review</em>)</p>
   <p class="project-links">
@@ -78,7 +88,7 @@ Public Opinion and Voting Behavior
 </div>
 
 <div class="project">
-  <p class="project-title">“Shifting Sands: The Impact of Conflict Displacement on Voting Patterns.”</p>
+  <p class="project-title">“Shifting Sands: The Impact of Conflict Displacement on Voting Patterns.” (<em>Under Review</em>) </p>
   <p class="project-links">
     <a href="https://osf.io/6sknz" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a class="toggle-abstract">▶ Abstract</a>
@@ -89,7 +99,7 @@ Public Opinion and Voting Behavior
 </div>
 
 <div class="project">
-  <p class="project-title">“Who Gets the Blame? Public opinion and bank-supervision in the EU.” With Tal Sadeh, Yuval Hirshorn, and Benjamin Daßler. </p>
+  <p class="project-title">“Who Gets the Blame? Public opinion and bank-supervision in the EU.” With Tal Sadeh, Yuval Hirshorn, and Benjamin Daßler. (<em>Under Review</em>) </p>
   <p class="project-links">
     <a href="https://osf.io/4afq8/" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a class="toggle-abstract">▶ Abstract</a>
@@ -113,7 +123,7 @@ Public Opinion and Voting Behavior
 Methodological Innovations
 ----
 <div class="project">
-  <p class="project-title">“Are International Monetary Fund (IMF) programs effective? Introducing a new tool to measure effective samples’ and assess external validity of regression analysis.” With Tal Sadeh and Bernhard Reinsberg. (<em>Under Review</em>) </p>
+  <p class="project-title">“Are International Monetary Fund (IMF) programs effective? Introducing a new tool to measure effective samples’ and assess external validity of regression analysis.” With Tal Sadeh and Bernhard Reinsberg. </p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
