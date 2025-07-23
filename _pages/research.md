@@ -66,7 +66,7 @@ Financial Decision-Making and Politics
 Public Opinion and Voting Behavior
 ----
 <div class="project">
-  <p class="project-title">“Rally Around the Winner – A Two-Wave Panel Survey on the Impact of the U.S. Election on Foreign Policy Stances.”International Journal of Public Opinion Research. With Eyal Rubinson. </p>
+  <p class="project-title">“Rally Around the Winner – A Two-Wave Panel Survey on the Impact of the U.S. Election on Foreign Policy Stances.” (<em>International Journal of Public Opinion Research</em>). With Eyal Rubinson. </p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
