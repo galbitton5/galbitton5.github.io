@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gal Bitton"
+title: "Gal Bitton Alayof"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
