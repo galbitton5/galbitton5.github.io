@@ -40,7 +40,7 @@ author_profile: true
 <style> details { float:left; cursor: pointer; &:hover { color: #fff; background-color: #b21619 !important; } } details > summary { display: inline-block; margin-bottom: 0.25em; padding: 0.125em 0.25em; color: #b21619; text-align: center; text-decoration: none !important; border: 1px solid; border-color: #b21619; border-radius: 4px; cursor: pointer; } details > summary::-webkit-details-marker { display: none; float:left; } details > p { margin-bottom: 0.25em; padding: 0.125em 0.25em; box-shadow: 1px 1px 2px #bbbbbb; } </style> 
 -->
 
-Financial Decision-Making and Politics
+Cross-Border Finance and Identity-Based Selectivity
 ----
 <div class="project">
   <p class="project-title">“How Does Cultural Identity Shape Global Financial Engagements?” (<em>Under Review</em>)</p>
@@ -60,6 +60,15 @@ Financial Decision-Making and Politics
   </p>
   <div class="abstract">
     <p>What drives individuals to engage financially with certain foreign entities while avoiding others? This paper examines the role of cultural identity in financial decision-making on a global scale, with cues of cultural similarity or difference triggering cognitive biases toward in-group favoritism. Through a pre-registered behavioral experiment with a national U.S. sample, I investigate how cultural proximity and diversity affect individuals' willingness to engage financially with foreign entities across varying degrees of perceived ‘out-group’ status—and how these interactions influence preferences regarding foreign economic presence in the local market. Findings reveal that in-group favoritism strongly shapes financial behavior and attitudes, leading to biases that can undermine democratic values, social cohesion, and human capital. By uncovering the roots of cooperation—and barriers to it—this study sheds light on essential dynamics that affect both domestic society and international relations.</p>
+  </div>
+</div>
+
+<div class="project">
+  <p class="project-title">“The Political Psychology of Capital Protectionism” </p>
+    <a class="toggle-abstract">▶ Abstract</a>
+  </p>
+  <div class="abstract">
+    <p>Conventional wisdom holds that the public lacks the knowledge or interest to meaningfully engage with complex financial instruments like capital controls. This project explores whether, and how, citizens form preferences around restricting foreign financial access. Specifically, it investigates the psychological roots of identity-based heuristics that shape support for capital protectionism. Drawing on experimental evidence, I identify three core mechanisms—a desire for national autonomy, ingroup–outgroup bias, and reciprocity-based fairness concerns—that help explain how individuals make selective judgments about which foreign actors should be allowed or excluded from domestic financial markets. This study aims to show that even in the absence of technical knowledge, citizens evaluate global financial openness through symbolic and affective lenses, relying on intuitive cues about deservingness, threat, and group belonging.</p>
   </div>
 </div>
 
