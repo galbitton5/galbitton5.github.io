@@ -66,13 +66,12 @@ Cross-Border Finance and Identity-Based Selectivity
 <div class="project">
   <p class="project-title">“The Political Psychology of Capital Protectionism” </p>
     <a class="toggle-abstract">▶ Abstract</a>
-  </p>
   <div class="abstract">
     <p>Conventional wisdom holds that the public lacks the knowledge or interest to meaningfully engage with complex financial instruments like capital controls. This project explores whether, and how, citizens form preferences around restricting foreign financial access. Specifically, it investigates the psychological roots of identity-based heuristics that shape support for capital protectionism. Drawing on experimental evidence, I identify three core mechanisms—a desire for national autonomy, ingroup–outgroup bias, and reciprocity-based fairness concerns—that help explain how individuals make selective judgments about which foreign actors should be allowed or excluded from domestic financial markets. This study aims to show that even in the absence of technical knowledge, citizens evaluate global financial openness through symbolic and affective lenses, relying on intuitive cues about deservingness, threat, and group belonging.</p>
   </div>
 </div>
 
-Public Opinion and Voting Behavior
+Elections, Accountability, and Public Opinion
 ----
 <div class="project">
   <p class="project-title">“Rally Around the Winner – A Two-Wave Panel Survey on the Impact of the U.S. Election on Foreign Policy Stances.” (<em>International Journal of Public Opinion Research</em>). With Eyal Rubinson. </p>
@@ -81,29 +80,6 @@ Public Opinion and Voting Behavior
   </p>
   <div class="abstract">
     <p>Do electoral outcomes influence public support for the winning candidate’s policy agenda? While voters are often assumed to evaluate candidates based on policy alignment, research suggests that partisan identity frequently overrides rational assessment. However, the extent to which the identity of the electoral winner legitimizes policy positions – particularly in the field of foreign policy – remains underexplored. This article leverages the 2024 U.S. presidential election as a natural experiment, using a pre-registered two-wave panel survey to assess whether electoral victory influences public perceptions of the winning candidate’s platform. Results reveal a moderate ‘winner effect’: Democratic voters exhibited an increase in support for Trump’s foreign policy positions post-election, while support for Harris declined, even among her base. Nevertheless, winner effects produced shifts in foreign policy preferences commensurate with those on a highly salient domestic issue, challenging assumptions about greater volatility in foreign policy. Furthermore, pre-election candidate support conditioned post-election stability, with winning-party supporters maintaining greater consistency. While electoral victories enhance the perceived legitimacy of the winner’s platform, partisan identity remains the primary constraint, limiting large-scale ideological realignment.</p>
-  </div>
-</div>
-
-<div class="project">
-  <p class="project-title">“The Welfare Consequences of Political Rivalry in a Polarized Era.” With Clareta Treger. (<em>Under Review</em>)</p>
-  <p class="project-links">
-    <a href="https://osf.io/7bgzm/" target="_blank">[Pre-registration and pre-analysis plan]</a>
-    <a href="https://osf.io/preprints/osf/upqs8/" target="_blank">[Pre-print]</a>
-    <a class="toggle-abstract">▶ Abstract</a>
-  </p>
-  <div class="abstract">
-    <p>Could political rivalry in a setting of high affective polarization manifest in a willingness to curtail social rights from political opponents? This study explores whether political rivalry in a polarized era biases perceptions of welfare deservingness, typically guided by political ideology and the degree to which welfare recipients are motivated to seek employment. Using the Israeli 2023 judicial reform crisis as a case study, we conducted a pre-registered experiment, manipulating the motivation and implicit political affiliations of hypothetical welfare recipients. We find that while motivated recipients are generally seen as more deserving, political biases significantly distort these evaluations. Out-group recipients are viewed as less deserving than in-group members. Additionally, absent political cues, motivation bears a higher reward for recipients as compared to both in- and out-group motivated recipients. The study reveals the societal risks of escalating political divisions, including the denial of social rights of political out-group members.</p>
-  </div>
-</div>
-
-<div class="project">
-  <p class="project-title">“Shifting Sands: The Impact of Conflict Displacement on Voting Patterns.” (<em>Under Review</em>) </p>
-  <p class="project-links">
-    <a href="https://osf.io/6sknz" target="_blank">[Pre-registration and pre-analysis plan]</a>
-    <a class="toggle-abstract">▶ Abstract</a>
-  </p>
-  <div class="abstract">
-    <p>Does exposure to conflict displacement amplify support for far-right parties? This study investigates the political impact of October the Seventh, focusing on conflict-induced displacement. Utilizing a pre-registered survey and Regression Discontinuity Design (RDD) analysis, I examine a natural experiment in Israel, where government-ordered evacuations due to military conflicts offer a unique opportunity to assess the causal effects of displacement on political outcomes. By analyzing changes in retrospective and prospective voting, as well as in political ideology, this research provides robust evidence on how security-driven displacement influences support for far-right parties. It addresses gaps in theories of democratic governance and retrospective voting by highlighting the role of security threats and displacement in shaping populist movements. The findings offer valuable insights for policymakers to address the concerns driving support for far-right parties and promote a more stable political discourse.</p>
   </div>
 </div>
 
@@ -128,6 +104,41 @@ Public Opinion and Voting Behavior
     <p>There is ample literature on drivers of electoral success of Eurosceptic parties, but less on the electoral rewards for their performance in office. Eurosceptic parties, typically populist but not necessarily radical right, operate within the European Union (EU)’s highly developed multi-level governance structure, which blunts their agenda more than other international organizations do. We lack a theory about how voters respond to the record of Eurosceptic governments. We argue that when European integration accelerates, support for Eurosceptic government parties falls even if support for Eurosceptic parties outside government increases, and that fiscal allocations from the EU counterintuitively further reduce support for incumbent Eurosceptic parties. We demonstrate our arguments using observational data on all parties and national elections in all of the EU member states from 1979 to 2018 and test our hypotheses with a conjoint survey experimental design.</p>
   </div>
 </div>
+
+Polarization and Democracy
+----
+
+<div class="project">
+  <p class="project-title">“Shifting Sands: The Impact of Conflict Displacement on Voting Patterns.” (<em>Under Review</em>) </p>
+  <p class="project-links">
+    <a href="https://osf.io/6sknz" target="_blank">[Pre-registration and pre-analysis plan]</a>
+    <a class="toggle-abstract">▶ Abstract</a>
+  </p>
+  <div class="abstract">
+    <p>Does exposure to conflict displacement amplify support for far-right parties? This study investigates the political impact of October the Seventh, focusing on conflict-induced displacement. Utilizing a pre-registered survey and Regression Discontinuity Design (RDD) analysis, I examine a natural experiment in Israel, where government-ordered evacuations due to military conflicts offer a unique opportunity to assess the causal effects of displacement on political outcomes. By analyzing changes in retrospective and prospective voting, as well as in political ideology, this research provides robust evidence on how security-driven displacement influences support for far-right parties. It addresses gaps in theories of democratic governance and retrospective voting by highlighting the role of security threats and displacement in shaping populist movements. The findings offer valuable insights for policymakers to address the concerns driving support for far-right parties and promote a more stable political discourse.</p>
+  </div>
+</div>
+
+<div class="project">
+  <p class="project-title">“The Welfare Consequences of Political Rivalry in a Polarized Era.” With Clareta Treger. (<em>Under Review</em>)</p>
+  <p class="project-links">
+    <a href="https://osf.io/7bgzm/" target="_blank">[Pre-registration and pre-analysis plan]</a>
+    <a href="https://osf.io/preprints/osf/upqs8/" target="_blank">[Pre-print]</a>
+    <a class="toggle-abstract">▶ Abstract</a>
+  </p>
+  <div class="abstract">
+    <p>Could political rivalry in a setting of high affective polarization manifest in a willingness to curtail social rights from political opponents? This study explores whether political rivalry in a polarized era biases perceptions of welfare deservingness, typically guided by political ideology and the degree to which welfare recipients are motivated to seek employment. Using the Israeli 2023 judicial reform crisis as a case study, we conducted a pre-registered experiment, manipulating the motivation and implicit political affiliations of hypothetical welfare recipients. We find that while motivated recipients are generally seen as more deserving, political biases significantly distort these evaluations. Out-group recipients are viewed as less deserving than in-group members. Additionally, absent political cues, motivation bears a higher reward for recipients as compared to both in- and out-group motivated recipients. The study reveals the societal risks of escalating political divisions, including the denial of social rights of political out-group members.</p>
+  </div>
+</div>
+
+<div class="project">
+  <p class="project-title">“Internal and External Conflicts and Political Distrust - The Impact of Threat Perceptions and Political ideology” With Keren Levy Ganany Snider and Benjamin Amram </p>
+    <a class="toggle-abstract">▶ Abstract</a>
+  <div class="abstract">
+    <p>Under what conditions do threat perceptions erode political trust? While the antecedents of political trust and threat perception have both been widely studied, existing research offers competing arguments when combining the two. Drawing on intergroup threat theory and system justification theory, we examine how different types of threat perceptions affect political trust, and how this relationship is shaped by political ideology. We leverage the occurrence of two distinct conflicts in Israel—an internal political-judicial conflict in 2023 and an external conflict, the Israel-Hamas war of 2023–2025. Drawing on two cross-sectional surveys conducted during these events, we find that: (1) in the context of internal political crisis, distrust intensifies among left-leaning individuals, particularly those perceiving greater economic threats; and (2) in the context of external conflict, this ideological asymmetries largely recede. These findings show how threat type and conflict context jointly shape political trust, and how internal political crises may produce asymmetric patterns of distrust.</p>
+  </div>
+</div>
+
 
 Methodological Innovations
 ----
