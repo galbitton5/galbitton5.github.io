@@ -105,7 +105,7 @@ Elections, Accountability, and Public Opinion
   </div>
 </div>
 
-Polarization and Democracy
+Threat, Polarization, and Democracy
 ----
 
 <div class="project">
