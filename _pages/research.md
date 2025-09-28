@@ -95,6 +95,14 @@ Elections, Accountability, and Public Opinion
 </div>
 
 <div class="project">
+  <p class="project-title">“Do and When Adverse Banking Conditions Affect Public Support for the Government?” With Tal Sadeh and Yuval Hirshorn. </p>
+    <a class="toggle-abstract">▶ Abstract</a>
+  <div class="abstract">
+    <p>Do people blame their government for adverse banking conditions, such as limited access to credit and unfavorable service terms? Will they also hold it accountable for such events outside periods of economic downturn? In the face of extensive research focusing on economic and banking crises as encompassing mechanisms of economic voting and protest, we argue that people’s daily experiences with banks provide them with tools and opportunities to recognize adverse banking outputs also in routine times, and to attribute responsibility for that to the government. We implement two studies to support this argument. Study one is a conjoint survey experiment conducted in Germany (a less likely country for blaming the government for bank failures). It is aimed at uncovering the causal effect that adverse banking conditions—both bad personal experiences and tax-funded bank bailouts—have on people’s preferences in choosing incumbents in elections. The design enables separating these effects from those of individual- and national-level economic distress. Study two is a large-scale comparative analysis of observational data from more than 100 democracies over 32 years. We proxy for low access to bank credit and poor bank service using data on bank losses, which also occur outside of crisis periods. We show how it significantly decreases electoral support for incumbents and increases participation in anti-government protests. We also provide evidence that bank losses are a suitable proxy—people are aware of them, they are not mere reflections of the business cycle, banking crisis, or other economic events, and they affect individuals more in countries in which the responsibility of the government is more easily detectable. Thus, our answer to both questions asked here is yes—people do blame their government for adverse, non-sensational banking conditions, and they do it especially outside periods of economic downturn. These conclusions, we believe, make an important contribution to both economic voting and banking politics literatures.</p>
+  </div>
+</div>
+
+<div class="project">
   <p class="project-title">“Do Voters Reward Eurosceptic Governments?” With Tal Sadeh.</p>
   <p class="project-links">
     <a href="https://osf.io/CB4ZQ/" target="_blank">[Pre-registration and pre-analysis plan]</a>
