@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!
 
-I am a postdoctoral researcher at the [Weatherhead Center for International Affairs at Harvard University](https://www.wcfia.harvard.edu). I am also a fellow at the [Institute for Quantitative Social Science (IQSS)](https://www.iq.harvard.edu) and the [Center for American Political Studies (CAPS)](https://caps.gov.harvard.edu). I earned my PhD in Political Science from Tel Aviv University in February 2025, during which I was awarded a Graduate Fellowship from the [Azrieli Foundation](https://azrielifoundation.org/fellows/directory/).
+I am a postdoctoral researcher at the [Mossavar Rahmani Center for Business and Government (M-RCBG) at Harvard Kennedy School of Government]([https://www.wcfia.harvard.edu](https://www.hks.harvard.edu/centers/mrcbg)). I am also a fellow at the [Institute for Quantitative Social Science (IQSS)](https://www.iq.harvard.edu) and the [Center for American Political Studies (CAPS)](https://caps.gov.harvard.edu). I earned my PhD in Political Science from Tel Aviv University in February 2025, during which I was awarded a Graduate Fellowship from the [Azrieli Foundation](https://azrielifoundation.org/fellows/directory/).
 
 I specialize in international political economy, focusing on financial decision-making and policymaking. My research addresses topics such as financial liberalization, cultural finance, and voter attitudes toward redistribution policies. I take a multi-level approach, using micro-level insights to explain macro-level phenomena, bridging individual behaviors with broader economic and political trends.
 
