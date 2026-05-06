@@ -43,7 +43,7 @@ author_profile: true
 Cross-Border Finance and Identity-Based Selectivity
 ----
 <div class="project">
-  <p class="project-title">“How Does Cultural Identity Shape Global Financial Engagements?” (<em>Under Review</em>)</p>
+  <p class="project-title">“How Does Cultural Identity Shape Global Financial Engagements?” (<em>Revise & Resubmit, Business and Politics</em>)</p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
@@ -135,18 +135,27 @@ Threat, Polarization, and Democracy
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
   <div class="abstract">
-    <p>Could political rivalry in a setting of high affective polarization manifest in a willingness to curtail social rights from political opponents? This study explores whether political rivalry in a polarized era biases perceptions of welfare deservingness, typically guided by political ideology and the degree to which welfare recipients are motivated to seek employment. Using the Israeli 2023 judicial reform crisis as a case study, we conducted a pre-registered experiment, manipulating the motivation and implicit political affiliations of hypothetical welfare recipients. We find that while motivated recipients are generally seen as more deserving, political biases significantly distort these evaluations. Out-group recipients are viewed as less deserving than in-group members. Additionally, absent political cues, motivation bears a higher reward for recipients as compared to both in- and out-group motivated recipients. The study reveals the societal risks of escalating political divisions, including the denial of social rights of political out-group members.</p>
+    <p>Could political rivalry in a setting of high affective polarization manifest in a willingness to curtail social rights of political opponents? This study explores whether political rivalry in a polarized era biases perceptions of welfare deservingness, typically guided by political ideology, social distance, and the degree to which welfare recipients are motivated to seek employment. Using the Israeli 2023 judicial reform crisis as a case study, we conducted a pre-registered experiment, manipulating the motivation and implicit political affiliations of hypothetical welfare recipients. We find that while recipients who are motivated to find a job are generally seen as more deserving, political biases significantly distort these evaluations. Out-group recipients are viewed as less deserving than in-group members. Additionally, motivated recipients with no political cues are more supported than both in- and out-group motivated recipients. The study shows that in affectively polarized political environments, political considerations shape perceptions of welfare deservingness and welfare policy preferences, highlighting the societal risks of escalating political divisions, including the denial of social rights of political opponents.</p>
   </div>
 </div>
 
 <div class="project">
-  <p class="project-title">“Polarized Under Pressure: Threat Perceptions, Crisis Type, and the Fragility of Political Trust.” With Keren Levy Ganany Snider (<em>Under Review</em>) </p>
+  <p class="project-title">“Polarized Under Pressure: Threat Perceptions, Crisis Type, and the Fragility of Political Trust.” With Keren Levy Ganany Snider </p>
     <a class="toggle-abstract">▶ Abstract</a>
   <div class="abstract">
     <p>Under what conditions do threat perceptions erode political trust? While the antecedents of political trust and threat perception have both been widely studied, existing research offers competing arguments when combining the two. Drawing on intergroup threat theory and system justification theory, we examine how different types of threat perceptions affect political trust, and how this relationship is shaped by political ideology. We leverage the occurrence of two distinct conflicts in Israel—an internal political-judicial conflict in 2023 and an external conflict, the Israel-Hamas war of 2023–2025. Drawing on two cross-sectional surveys conducted during these events, we find that: (1) in the context of internal political crisis, distrust intensifies among left-leaning individuals, particularly those perceiving greater economic threats; and (2) in the context of external conflict, this ideological asymmetries largely recede. These findings show how threat type and conflict context jointly shape political trust, and how internal political crises may produce asymmetric patterns of distrust.</p>
   </div>
 </div>
 
+<div class="project">
+  <p class="project-title">“Terror, Interstate Conflict, and Peace: How Different Forms of Violence Shape Foreign Policy Attitudes.” With Keren Levy Ganany Snider, Amit Cohen, and Daphna Canetti. </p>
+  <p class="project-links">
+    <a class="toggle-abstract">▶ Abstract</a>
+  </p>
+  <div class="abstract">
+    <p>How do exposure to terror and threat perceptions affect foreign policy attitudes, and what happens to these attitudes once war ends? While existing research examines how violence shapes political preferences, it typically treats “war” as a single category. We argue that the type of conflict, terrorism versus interstate war, matters for how citizens process threat and update political beliefs. We test this argument using a three-wave survey (N=1,938) conducted in Israel across distinct conflict contexts: (1) the immediate aftermath of the October 7 terror attacks, (2) following Iranian missile strikes, and (3) a post-war peace period. This design allows us to compare how public opinion evolves across qualitatively different wars and into peacetime. We examine support for militant and diplomatic foreign policies as well as peace-specific preferences, and assess how geographic proximity, personal exposure to violence, political ideology, and trauma symptoms shape attitudes across contexts. By comparing attitudes across different conflict contexts and into peacetime, we provide a framework for assessing how societies transition politically from war to peace, and whether public opinion facilitates or constrains peacebuilding efforts.</p>
+  </div>
+</div>
 
 Methodological Innovations
 ----
