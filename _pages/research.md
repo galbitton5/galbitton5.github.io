@@ -43,7 +43,7 @@ author_profile: true
 Cross-Border Finance and Identity-Based Selectivity
 ----
 <div class="project">
-  <p class="project-title">“How Does Cultural Identity Shape Global Financial Engagements?” (<em>Revise & Resubmit, Business and Politics</em>)</p>
+  <p class="project-title">“How Does Cultural Identity Shape Global Financial Engagements?” (<em> Revise & Resubmit, Business and Politics </em>)</p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
@@ -113,7 +113,7 @@ Elections, Accountability, and Public Opinion
   </div>
 </div>
 
-Threat, Polarization, and Democracy
+Threat, Violence, and Polarization
 ----
 
 <div class="project">
@@ -126,6 +126,27 @@ Threat, Polarization, and Democracy
     <p>Does exposure to conflict displacement amplify support for far-right parties? This study investigates the political consequences of conflict-induced displacement in northern Israel by exploiting a natural experiment arising from government-ordered evacuations during military conflicts. Using a pre-registered survey and a regression discontinuity design (RDD) based on an exogenous 5 km threshold, I assess changes in retrospective and prospective voting behavior as well as self-reported political ideology. The analysis reveals no evidence that displacement increases far-right support or induces partisan realignment. Rather, evacuees demonstrate a modest rightward shift in ideological self-placement without corresponding changes in voting behavior. This divergence suggests that displacement influences symbolic political positioning while preserving established partisan loyalties. These findings occur within a broader pattern of political frustration and disengagement—pointing to heightened disillusionment with the existing political establishment. These findings reveal troubling implications for democratic accountability during external conflict: leaders may be shielded from electoral consequences of security failures even as civic engagement deteriorates, challenging models of wartime accountability.</p>
   </div>
 </div>
+
+<div class="project">
+  <p class="project-title">“Polarized Under Pressure: Threat Perceptions, Crisis Type, and the Fragility of Political Trust.” With Keren Levy Ganany Snider </p>
+    <a class="toggle-abstract">▶ Abstract</a>
+  <div class="abstract">
+    <p>Under what conditions do threat perceptions erode political trust? While the antecedents of political trust and threat perception have both been widely studied, existing research offers competing arguments when combining the two. Drawing on intergroup threat theory and system justification theory, we examine how different types of threat perceptions affect political trust, and how this relationship is shaped by political ideology. We leverage the occurrence of two distinct conflicts in Israel—an internal political-judicial conflict in 2023 and an external conflict, the Israel-Hamas war of 2023–2025. Drawing on two cross-sectional surveys conducted during these events, we find that: (1) in the context of internal political crisis, distrust intensifies among left-leaning individuals, particularly those perceiving greater economic threats; and (2) in the context of external conflict, this ideological asymmetries largely recede. These findings show how threat type and conflict context jointly shape political trust, and how internal political crises may produce asymmetric patterns of distrust.</p>
+  </div>
+</div>
+
+<div class="project">
+  <p class="project-title">“Terror, Interstate Conflict, and Peace: How Different Forms of Violence Shape Foreign Policy Attitudes.” With Keren Levy Ganany Snider, Amit Cohen, and Daphna Canetti. </p>
+  <p class="project-links">
+    <a class="toggle-abstract">▶ Abstract</a>
+  </p>
+  <div class="abstract">
+    <p>How do exposure to terror and threat perceptions affect foreign policy attitudes, and what happens to these attitudes once war ends? While existing research examines how violence shapes political preferences, it typically treats “war” as a single category. We argue that the type of conflict, terrorism versus interstate war, matters for how citizens process threat and update political beliefs. We test this argument using a three-wave survey (N=1,938) conducted in Israel across distinct conflict contexts: (1) the immediate aftermath of the October 7 terror attacks, (2) following Iranian missile strikes, and (3) a post-war peace period. This design allows us to compare how public opinion evolves across qualitatively different wars and into peacetime. We examine support for militant and diplomatic foreign policies as well as peace-specific preferences, and assess how geographic proximity, personal exposure to violence, political ideology, and trauma symptoms shape attitudes across contexts. By comparing attitudes across different conflict contexts and into peacetime, we provide a framework for assessing how societies transition politically from war to peace, and whether public opinion facilitates or constrains peacebuilding efforts.</p>
+  </div>
+</div>
+
+Welfare Deservingness
+----
 
 <div class="project">
   <p class="project-title">“The Welfare Consequences of Political Rivalry in a Polarized Era.” With Clareta Treger. (<em>Under Review</em>)</p>
@@ -146,24 +167,6 @@ Threat, Polarization, and Democracy
   </p>
   <div class="abstract">
     <p>Why are unemployed individuals in poverty perceived as deserving of public support in some countries but not in others, even under similar economic conditions? We argue that labor-market institutions influence not only economic risks, but also how citizens interpret the causes of poverty and assign responsibility. In highly segmented labor markets, where mobility into stable employment is limited and risks are collectively shared, poverty is more likely to be viewed as structurally induced, increasing perceptions of deservingness. By contrast, in more flexible labor markets, poverty is more likely to be attributed to individual failure, resulting in stricter deservingness judgments. Our findings link varieties of capitalism to the normative foundations of welfare legitimacy and citizens’ interpretations of poverty, fairness, and responsibility.</p>
-  </div>
-</div>
-
-<div class="project">
-  <p class="project-title">“Polarized Under Pressure: Threat Perceptions, Crisis Type, and the Fragility of Political Trust.” With Keren Levy Ganany Snider </p>
-    <a class="toggle-abstract">▶ Abstract</a>
-  <div class="abstract">
-    <p>Under what conditions do threat perceptions erode political trust? While the antecedents of political trust and threat perception have both been widely studied, existing research offers competing arguments when combining the two. Drawing on intergroup threat theory and system justification theory, we examine how different types of threat perceptions affect political trust, and how this relationship is shaped by political ideology. We leverage the occurrence of two distinct conflicts in Israel—an internal political-judicial conflict in 2023 and an external conflict, the Israel-Hamas war of 2023–2025. Drawing on two cross-sectional surveys conducted during these events, we find that: (1) in the context of internal political crisis, distrust intensifies among left-leaning individuals, particularly those perceiving greater economic threats; and (2) in the context of external conflict, this ideological asymmetries largely recede. These findings show how threat type and conflict context jointly shape political trust, and how internal political crises may produce asymmetric patterns of distrust.</p>
-  </div>
-</div>
-
-<div class="project">
-  <p class="project-title">“Terror, Interstate Conflict, and Peace: How Different Forms of Violence Shape Foreign Policy Attitudes.” With Keren Levy Ganany Snider, Amit Cohen, and Daphna Canetti. </p>
-  <p class="project-links">
-    <a class="toggle-abstract">▶ Abstract</a>
-  </p>
-  <div class="abstract">
-    <p>How do exposure to terror and threat perceptions affect foreign policy attitudes, and what happens to these attitudes once war ends? While existing research examines how violence shapes political preferences, it typically treats “war” as a single category. We argue that the type of conflict, terrorism versus interstate war, matters for how citizens process threat and update political beliefs. We test this argument using a three-wave survey (N=1,938) conducted in Israel across distinct conflict contexts: (1) the immediate aftermath of the October 7 terror attacks, (2) following Iranian missile strikes, and (3) a post-war peace period. This design allows us to compare how public opinion evolves across qualitatively different wars and into peacetime. We examine support for militant and diplomatic foreign policies as well as peace-specific preferences, and assess how geographic proximity, personal exposure to violence, political ideology, and trauma symptoms shape attitudes across contexts. By comparing attitudes across different conflict contexts and into peacetime, we provide a framework for assessing how societies transition politically from war to peace, and whether public opinion facilitates or constrains peacebuilding efforts.</p>
   </div>
 </div>
 
