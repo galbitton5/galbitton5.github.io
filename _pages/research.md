@@ -117,7 +117,7 @@ Threat, Violence, and Polarization
 ----
 
 <div class="project">
-  <p class="project-title">“Shifting Sands? The Impact of Conflict Displacement on Voting Patterns.” 2026. (<em> Political Studies (_Forthcoming_) </em>) </p>
+  <p class="project-title">“Shifting Sands? The Impact of Conflict Displacement on Voting Patterns.” 2026. (<em> Political Studies, Forthcoming </em>) </p>
   <p class="project-links">
     <a href="https://osf.io/6sknz" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a class="toggle-abstract">▶ Abstract</a>
