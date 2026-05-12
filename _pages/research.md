@@ -74,7 +74,7 @@ Cross-Border Finance and Identity-Based Selectivity
 Elections, Accountability, and Public Opinion
 ----
 <div class="project">
-  <p class="project-title">“Rally Around the Winner – A Two-Wave Panel Survey on the Impact of the U.S. Election on Foreign Policy Stances.” (<em>International Journal of Public Opinion Research</em>). With Eyal Rubinson. </p>
+  <p class="project-title">“Rally Around the Winner – A Two-Wave Panel Survey on the Impact of the U.S. Election on Foreign Policy Stances.” 2025. (<em>International Journal of Public Opinion Research</em>). With Eyal Rubinson. </p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
@@ -117,7 +117,7 @@ Threat, Violence, and Polarization
 ----
 
 <div class="project">
-  <p class="project-title">“Shifting Sands? The Impact of Conflict Displacement on Voting Patterns.” (<em> Revise & Resubmit, Political Studies </em>) </p>
+  <p class="project-title">“Shifting Sands? The Impact of Conflict Displacement on Voting Patterns.” 2026. (<em> Political Studies (_Forthcoming_) </em>) </p>
   <p class="project-links">
     <a href="https://osf.io/6sknz" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a class="toggle-abstract">▶ Abstract</a>
