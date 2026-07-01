@@ -159,7 +159,7 @@ Welfare Deservingness
 ----
 
 <div class="project">
-  <p class="project-title">“The Welfare Consequences of Political Rivalry in a Polarized Era.” With Clareta Treger. (<em>Under Review</em>)</p>
+  <p class="project-title">“The Welfare Consequences of Political Rivalry in a Polarized Era.” With Clareta Treger. (<em>Revise & Resubmit, Journal of European Public Policy </em>)</p>
   <p class="project-links">
     <a href="https://osf.io/7bgzm/" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a href="https://osf.io/preprints/osf/upqs8/" target="_blank">[Pre-print]</a>
