@@ -34,6 +34,19 @@ author_profile: true
     color: black;
     font-size: 0.9em;
   }
+
+  /* Dark mode overrides for page-local black text */
+  html[data-theme="dark"] .toggle-abstract,
+  html[data-theme="dark"] .abstract {
+    color: #e6edf3;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) .toggle-abstract,
+    html:not([data-theme="light"]) .abstract {
+      color: #e6edf3;
+    }
+  }
 </style>
 
 <!--
