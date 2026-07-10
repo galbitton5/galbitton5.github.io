@@ -39,3 +39,277 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Theme toggle
+   ========================================================================== */
+
+.masthead__menu {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+}
+
+.masthead__menu .greedy-nav {
+  -webkit-box-flex: 1;
+          flex: 1 1 auto;
+  min-width: 0;
+}
+
+.theme-toggle {
+  -webkit-box-flex: 0;
+          flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  margin: 0 0 0 0.5rem;
+  padding: 0;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: $background-color;
+  color: $masthead-link-color;
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+  -webkit-transition: $global-transition;
+          transition: $global-transition;
+
+  &:hover,
+  &:focus {
+    color: $masthead-link-color-hover;
+    outline: 0;
+  }
+
+  .theme-toggle__icon--sun {
+    display: none;
+  }
+}
+
+/* ==========================================================================
+   Dark mode
+   Uses existing $dark-* SCSS variables from _variables.scss.
+   Applies when:
+   - html[data-theme="dark"] (manual override), or
+   - system prefers dark and html is not data-theme="light"
+   Light mode styles are unchanged from the original theme.
+   ========================================================================== */
+
+@mixin dark-mode {
+  --global-base-color: #{$gray};
+  --global-bg-color: #{$dark-background-color};
+  --global-border-color: #{$dark-border-color};
+  --global-code-background-color: #{mix(#fff, $dark-background-color, 8%)};
+  --global-code-text-color: #{$dark-text-color};
+  --global-fig-caption-color: #{mix(#000, $dark-text-color, 30%)};
+  --global-link-color: #{$dark-link-color};
+  --global-link-color-hover: #{$dark-link-color-hover};
+  --global-link-color-visited: #{mix(#fff, $dark-link-color, 20%)};
+  --global-masthead-link-color: #{$dark-text-color};
+  --global-masthead-link-color-hover: #{mix(#000, $dark-text-color, 15%)};
+  --global-text-color: #{$dark-text-color};
+  --global-text-color-light: #{mix(#000, $dark-text-color, 30%)};
+  --global-thead-color: #{mix(#fff, $dark-background-color, 12%)};
+
+  background-color: $dark-background-color;
+
+  body {
+    color: $dark-text-color;
+    background-color: $dark-background-color;
+  }
+
+  a {
+    color: $dark-link-color;
+
+    &:visited {
+      color: mix(#fff, $dark-link-color, 15%);
+    }
+
+    &:hover,
+    &:focus {
+      color: $dark-link-color-hover;
+    }
+  }
+
+  .btn--inverse {
+    color: $dark-text-color !important;
+    border-color: $dark-border-color !important;
+    background-color: mix(#fff, $dark-background-color, 8%);
+
+    &:hover {
+      color: $dark-background-color !important;
+      background-color: $dark-text-color;
+      border-color: $dark-text-color;
+    }
+  }
+
+  .masthead {
+    border-bottom-color: $dark-border-color;
+  }
+
+  .theme-toggle {
+    border-color: $dark-border-color;
+    background: $dark-background-color;
+    color: $dark-text-color;
+
+    &:hover,
+    &:focus {
+      color: mix(#000, $dark-text-color, 15%);
+    }
+
+    .theme-toggle__icon--moon {
+      display: none;
+    }
+
+    .theme-toggle__icon--sun {
+      display: inline;
+    }
+  }
+
+  .greedy-nav {
+    background: $dark-background-color;
+
+    a {
+      color: $dark-text-color;
+
+      &:hover {
+        color: mix(#000, $dark-text-color, 15%);
+      }
+    }
+
+    .hidden-links {
+      background: $dark-background-color;
+      border-color: $dark-border-color;
+    }
+  }
+
+  .author__avatar img {
+    border-color: $dark-border-color;
+  }
+
+  .author__urls {
+    background: mix(#fff, $dark-background-color, 6%);
+    border-color: $dark-border-color;
+
+    /* Match light mode: no box behind links on desktop sidebar */
+    @include breakpoint($large) {
+      background: transparent;
+      border-color: transparent;
+    }
+
+    &:after {
+      border-bottom-color: mix(#fff, $dark-background-color, 6%);
+    }
+
+    /* Match light mode: link text uses body color, not accent purple */
+    a {
+      color: inherit;
+
+      &:visited,
+      &:hover,
+      &:focus {
+        color: inherit;
+      }
+    }
+  }
+
+  /* Brand icon colors that are near-black become invisible on dark backgrounds */
+  .social-icons {
+    .fa {
+      color: mix(#000, $dark-text-color, 20%);
+    }
+
+    .fa-github,
+    .fa-github-alt,
+    .fa-github-square,
+    .fab.fa-github {
+      color: $dark-text-color;
+    }
+  }
+
+  .page__footer {
+    color: mix(#000, $dark-text-color, 25%);
+    background-color: mix(#fff, $dark-background-color, 6%);
+    border-top-color: $dark-border-color;
+
+    .fas,
+    .fab,
+    .far,
+    .fal {
+      color: mix(#000, $dark-text-color, 25%);
+    }
+  }
+
+  table {
+    border-color: $dark-border-color;
+  }
+
+  thead {
+    background-color: mix(#fff, $dark-background-color, 10%);
+    border-bottom-color: $dark-border-color;
+  }
+
+  th,
+  td {
+    border-color: $dark-border-color;
+  }
+
+  div.highlighter-rouge,
+  figure.highlight {
+    background-color: mix(#fff, $dark-background-color, 8%);
+    border-color: $dark-border-color;
+
+    &:before {
+      background-color: mix(#fff, $dark-background-color, 14%);
+    }
+  }
+
+  .page__content {
+    .archive__item-title,
+    h2,
+    h3,
+    h4 {
+      a {
+        color: inherit;
+      }
+    }
+  }
+
+  .page__meta,
+  .page__taxonomy-item,
+  .archive__item-excerpt {
+    color: mix(#000, $dark-text-color, 30%);
+  }
+
+  .page__share .btn,
+  .toc,
+  .notice {
+    background-color: mix(#fff, $dark-background-color, 6%);
+    border-color: $dark-border-color;
+  }
+
+  hr,
+  .page__comments,
+  .page__related,
+  .archive__item,
+  .pagination {
+    border-color: $dark-border-color;
+  }
+
+  figcaption a:hover {
+    color: $dark-text-color;
+    border-bottom-color: $dark-text-color;
+  }
+}
+
+html[data-theme="dark"] {
+  @include dark-mode;
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) {
+    @include dark-mode;
+  }
+}
