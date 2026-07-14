@@ -66,7 +66,7 @@ Cross-Border Finance and Identity-Based Selectivity
 </div>
 
 <div class="project">
-  <p class="project-title">“The Premium of Familiarity: Experimental Evidence on Financial Interactions Between Foreigners.” (<em>Under Review</em>)</p>
+  <p class="project-title">“The Premium of Familiarity: Experimental Evidence on Financial Interactions Between Foreigners.” (<em>Under Review</em>) </p>
   <p class="project-links">
     <a href="https://osf.io/ep36v" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a class="toggle-abstract">▶ Abstract</a>
@@ -84,6 +84,31 @@ Cross-Border Finance and Identity-Based Selectivity
   </div>
 </div>
 
+Welfare Deservingness
+----
+
+<div class="project">
+  <p class="project-title">“When Effort Is Not Enough: Political Identity and Welfare Deservingness in a Polarized Society.” With Clareta Treger. (<em>Revise & Resubmit, Journal of European Public Policy </em>)</p>
+  <p class="project-links">
+    <a href="https://osf.io/7bgzm/" target="_blank">[Pre-registration and pre-analysis plan]</a>
+    <a href="https://osf.io/preprints/osf/upqs8/" target="_blank">[Pre-print]</a>
+    <a class="toggle-abstract">▶ Abstract</a>
+  </p>
+  <div class="abstract">
+    <p>This study explores whether political group conflict in a polarized environment biases perceptions of welfare deservingness, typically guided by political ideology, social distance, and the degree to which welfare recipients are motivated to seek employment. Using the Israeli 2023 judicial reform crisis as a case study, we conducted a pre-registered experiment, manipulating the motivation and implicit political affiliations of hypothetical welfare recipients. We find that while recipients who are motivated to find a job are generally seen as more deserving, political identity significantly distorts these evaluations. Political out-group recipients are viewed as less deserving than in-group members. Notably, the motivation premium is largest for recipients without political affiliation compared to both in- and out-group members. The study shows that in deeply polarized societies, political considerations shape perceptions of welfare deservingness and welfare policy preferences, highlighting the societal risks of escalating political divisions, including the denial of social rights of political opponents.</p>
+  </div>
+</div>
+
+<div class="project">
+  <p class="project-title">“Who Deserves a Safety Net? Labour-Market Dualization and Moral Heuristics.” With Gianluca Busilacchi. </p>
+  <p class="project-links">
+    <a class="toggle-abstract">▶ Abstract</a>
+  </p>
+  <div class="abstract">
+    <p>How does labour market dualism shape moral judgments about welfare deservingness? Combining the European Social Survey (N=33,560) with OECD measures of employment protection, we examine how individual labour-market position and country-level dualization condition welfare deservingness attitudes. We argue that labour-market institutions sort moral attribution differentially across positions rather than shifting moral dispositions uniformly. Three findings complicate the standard insider--outsider account. First, the currently unemployed are more punitive than otherwise comparable insiders, contradicting the prediction that exposure to labour-market risk produces structural attributions. Second, this "unemployed paradox" is institutionally invariant: it holds across the full range of European dualization, favouring a system-justification over a structural-attribution reading. Third, two narrower moral signatures do vary with dualization: the recently unemployed become more punitive in segmented systems, while fixed-term outsiders become marginally more pro-welfare. The ideological gradient is also inverted in most of Western Europe: left-leaning respondents hold more pro-welfare normative beliefs but more punitive attribution heuristics than right-leaning ones. These findings imply that redistributive coalitions appealing to shared outsider vulnerability face stronger moral resistance than the dualization literature anticipates, and point toward integrating social-psychological with institutional accounts of welfare attitudes.</p>
+  </div>
+</div>
+
 Elections, Accountability, and Public Opinion
 ----
 <div class="project">
@@ -97,7 +122,7 @@ Elections, Accountability, and Public Opinion
 </div>
 
 <div class="project">
-  <p class="project-title">“Blame Attribution and Blame Shifting to International Organizations.” With Tal Sadeh, Benjamin Daßler, and Yuval Hirshorn. (<em>Under Review</em>) </p>
+  <p class="project-title">“Blame Attribution and Blame Shifting to International Organizations.” With Tal Sadeh, Benjamin Daßler, and Yuval Hirshorn. </p>
   <p class="project-links">
     <a href="https://osf.io/4afq8/" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a class="toggle-abstract">▶ Abstract</a>
@@ -108,25 +133,14 @@ Elections, Accountability, and Public Opinion
 </div>
 
 <div class="project">
-  <p class="project-title">Banking and Ballots: Adverse Banking Conditions and Support for the Government” With Yuval Hirshorn, Tal Sadeh and Benjamin Daßler. (<em>Under Review</em>) </p>
+  <p class="project-title">Banking and Ballots: Adverse Banking Conditions and Support for the Government” With Yuval Hirshorn, Tal Sadeh and Benjamin Daßler. </p>
     <a class="toggle-abstract">▶ Abstract</a>
   <div class="abstract">
     <p>Do people blame their government for adverse banking conditions, such as limited access to credit and unfavorable service terms? Will they also hold it accountable for such events outside periods of economic downturn? In the face of extensive research focusing on economic and banking crises as encompassing mechanisms of economic voting and protest, we argue that people’s daily experiences with banks provide them with tools and opportunities to recognize adverse banking outputs also in routine times, and to attribute responsibility for that to the government. We implement two studies to support this argument. Study one is a conjoint survey experiment conducted in Germany (a less likely country for blaming the government for bank failures). It is aimed at uncovering the causal effect that adverse banking conditions—both bad personal experiences and tax-funded bank bailouts—have on people’s preferences in choosing incumbents in elections. The design enables separating these effects from those of individual- and national-level economic distress. Study two is a large-scale comparative analysis of observational data from more than 100 democracies over 32 years. We proxy for low access to bank credit and poor bank service using data on bank losses, which also occur outside of crisis periods. We show how it significantly decreases electoral support for incumbents and increases participation in anti-government protests. We also provide evidence that bank losses are a suitable proxy—people are aware of them, they are not mere reflections of the business cycle, banking crisis, or other economic events, and they affect individuals more in countries in which the responsibility of the government is more easily detectable. Thus, our answer to both questions asked here is yes—people do blame their government for adverse, non-sensational banking conditions, and they do it especially outside periods of economic downturn. These conclusions, we believe, make an important contribution to both economic voting and banking politics literatures.</p>
   </div>
 </div>
 
-<div class="project">
-  <p class="project-title">“Do Voters Reward Eurosceptic Governments?” With Tal Sadeh.</p>
-  <p class="project-links">
-    <a href="https://osf.io/CB4ZQ/" target="_blank">[Pre-registration and pre-analysis plan]</a>
-    <a class="toggle-abstract">▶ Abstract</a>
-  </p>
-  <div class="abstract">
-    <p>There is ample literature on drivers of electoral success of Eurosceptic parties, but less on the electoral rewards for their performance in office. Eurosceptic parties, typically populist but not necessarily radical right, operate within the European Union (EU)’s highly developed multi-level governance structure, which blunts their agenda more than other international organizations do. We lack a theory about how voters respond to the record of Eurosceptic governments. We argue that when European integration accelerates, support for Eurosceptic government parties falls even if support for Eurosceptic parties outside government increases, and that fiscal allocations from the EU counterintuitively further reduce support for incumbent Eurosceptic parties. We demonstrate our arguments using observational data on all parties and national elections in all of the EU member states from 1979 to 2018 and test our hypotheses with a conjoint survey experimental design.</p>
-  </div>
-</div>
-
-Threat, Violence, and Polarization
+Political Trust and Electoral Behavior in Crisis
 ----
 
 <div class="project">
@@ -148,6 +162,19 @@ Threat, Violence, and Polarization
   </div>
 </div>
 
+Political Violence and Threat
+----
+
+<div class="project">
+  <p class="project-title">“When Threat Narrows the Gap: Terror Exposure and the Ideological Convergence of Surveillance Support.” With Daphna Canetti, Giulia Dal Bello, Julia Elad-Strenger, and Sivan Hirsch-Hoefler. (<em>Under Review</em>) </p>
+  <p class="project-links">
+    <a class="toggle-abstract">▶ Abstract</a>
+  </p>
+  <div class="abstract">
+    <p>Does exposure to threat produce uniform conservative shift, or does it polarize ideological camps further apart? Two long-standing traditions in political psychology give opposing answers, and recent work has refined but not resolved the debate. We contribute on three fronts. We bring evidence from outside the standard U.S. two-party setting, examining a multiparty system with a sharply different ideological baseline. We disaggregate the non-conservative bloc, distinguishing centrist from leftist responses that the existing literature typically conflates. And we examine support for state digital surveillance, a security policy whose ideological structure is less crystallized than the military responses on which the literature has largely relied. Drawing on two original surveys fielded in Israel during the Israel-Hamas war (N = 2,199), we find that personal exposure to terrorism produces convergence at the political center across both waves, consistent with defensive-conservatism. The leftist response is conditional: positive in 2024 but absent in 2025, suggesting that worldview-protective dynamics become operative for the left when the threat no longer maps onto the policy. We argue that the two traditions are best understood not as competitors but as conditional accounts that apply to different ideological subgroups under different political contexts.</p>
+  </div>
+</div>
+
 <div class="project">
   <p class="project-title">“Terror, Interstate Conflict, and the Politics of Restraint: How Different Forms of Violence Shape Foreign Policy Attitudes.” With Keren Levy Ganany Snider, Amit Cohen, and Daphna Canetti. </p>
   <p class="project-links">
@@ -159,44 +186,19 @@ Threat, Violence, and Polarization
 </div>
 
 <div class="project">
-  <p class="project-title">“When Threat Narrows the Gap: Terror Exposure and the Ideological Convergence of Surveillance Support.” With Daphna Canetti, Giulia Dal Bello, Julia Elad-Strenger, and Sivan Hirsch-Hoefler. </p>
+  <p class="project-title">“Why Some Distress Radicalizes: A Cognitive Flexibility Framework of War Exposure and Political Violence.” With Daphna Canetti, Tal Shaanan, and Sivan Hirsch-Hoefler. </p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
   <div class="abstract">
-    <p>Does exposure to threat produce uniform conservative shift, or does it polarize ideological camps further apart? Two long-standing traditions in political psychology give opposing answers, and recent work has refined but not resolved the debate. We contribute on three fronts. We bring evidence from outside the standard U.S. two-party setting, examining a multiparty system with a sharply different ideological baseline. We disaggregate the non-conservative bloc, distinguishing centrist from leftist responses that the existing literature typically conflates. And we examine support for state digital surveillance, a security policy whose ideological structure is less crystallized than the military responses on which the literature has largely relied. Drawing on two original surveys fielded in Israel during the Israel-Hamas war (N = 2,199), we find that personal exposure to terrorism produces convergence at the political center across both waves, consistent with defensive-conservatism. The leftist response is conditional: positive in 2024 but absent in 2025, suggesting that worldview-protective dynamics become operative for the left when the threat no longer maps onto the policy. We argue that the two traditions are best understood not as competitors but as conditional accounts that apply to different ideological subgroups under different political contexts.</p>
-  </div>
-</div>
-
-Welfare Deservingness
-----
-
-<div class="project">
-  <p class="project-title">“The Welfare Consequences of Political Rivalry in a Polarized Era.” With Clareta Treger. (<em>Revise & Resubmit, Journal of European Public Policy </em>)</p>
-  <p class="project-links">
-    <a href="https://osf.io/7bgzm/" target="_blank">[Pre-registration and pre-analysis plan]</a>
-    <a href="https://osf.io/preprints/osf/upqs8/" target="_blank">[Pre-print]</a>
-    <a class="toggle-abstract">▶ Abstract</a>
-  </p>
-  <div class="abstract">
-    <p>Could political rivalry in a setting of high affective polarization manifest in a willingness to curtail social rights of political opponents? This study explores whether political rivalry in a polarized era biases perceptions of welfare deservingness, typically guided by political ideology, social distance, and the degree to which welfare recipients are motivated to seek employment. Using the Israeli 2023 judicial reform crisis as a case study, we conducted a pre-registered experiment, manipulating the motivation and implicit political affiliations of hypothetical welfare recipients. We find that while recipients who are motivated to find a job are generally seen as more deserving, political biases significantly distort these evaluations. Out-group recipients are viewed as less deserving than in-group members. Additionally, motivated recipients with no political cues are more supported than both in- and out-group motivated recipients. The study shows that in affectively polarized political environments, political considerations shape perceptions of welfare deservingness and welfare policy preferences, highlighting the societal risks of escalating political divisions, including the denial of social rights of political opponents.</p>
-  </div>
-</div>
-
-<div class="project">
-  <p class="project-title">“Who Deserves a Safety Net? Labour-Market Dualization and Moral Heuristics.” With Gianluca Busilacchi. </p>
-  <p class="project-links">
-    <a class="toggle-abstract">▶ Abstract</a>
-  </p>
-  <div class="abstract">
-    <p>Why are unemployed individuals in poverty perceived as deserving of public support in some countries but not in others, even under similar economic conditions? We argue that labor-market institutions influence not only economic risks, but also how citizens interpret the causes of poverty and assign responsibility. In highly segmented labor markets, where mobility into stable employment is limited and risks are collectively shared, poverty is more likely to be viewed as structurally induced, increasing perceptions of deservingness. By contrast, in more flexible labor markets, poverty is more likely to be attributed to individual failure, resulting in stricter deservingness judgments. Our study link varieties of capitalism to the normative foundations of welfare legitimacy and citizens’ interpretations of poverty, fairness, and responsibility.</p>
+    <p>Does exposure to violence radicalize, and if so, how? A large literature links wartime exposure to support for political violence, often treating distress as a general driver of hardened attitudes. We argue instead that distress radicalizes selectively. Distinguishing personal willingness to engage in violence from endorsement of violence by others, we contend that these responses follow different psychological pathways: endorsement updates directly from exposure, while willingness operates through the affective distress that exposure provokes. This affective pathway, we argue, is moderated by cognitive flexibility. Two-wave panel data spanning the Israel--Iran war, with within-person baselines, support this account. Exposure increased distress, and distress predicted later personal willingness but not endorsement, which exposure predicted directly. The distress-to-willingness pathway was concentrated among the cognitively rigid and attenuated among the cognitively flexible, and the mechanism was affective rather than threat-based. These findings refine the assumption that distress is uniformly radicalizing: its political consequences depend on both the type of response and the cognitive resources individuals bring to bear.</p>
   </div>
 </div>
 
 Methodological Innovations
 ----
 <div class="project">
-  <p class="project-title">“Are International Monetary Fund (IMF) programs effective? Introducing a new tool to measure effective samples’ and assess external validity of regression analysis.” With Tal Sadeh and Bernhard Reinsberg. (<em>Under Review</em>) </p>
+  <p class="project-title">“Are findings of research on the Effectiveness of International Economic Organizations generalizable?” With Tal Sadeh and Bernhard Reinsberg. </p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
