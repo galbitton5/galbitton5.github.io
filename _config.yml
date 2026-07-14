@@ -173,6 +173,9 @@ kramdown:
   enable_coderay: false
 
 
+# Collections live under _pages/ (see collections_dir below)
+collections_dir: _pages
+
 # Collections
 collections:
   teaching:
@@ -187,6 +190,8 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: false
 
 
 # Defaults
