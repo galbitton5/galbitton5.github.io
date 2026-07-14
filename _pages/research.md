@@ -156,7 +156,7 @@ author_profile: true
 </div>
 
 {% for tab in site.data.research_tabs %}
-  {% assign tab_folder = "_research/" | append: tab.id | append: "/" %}
+  {% assign tab_folder = tab.id | append: "/" %}
   {% assign tab_papers = site.research | where_exp: "paper", "paper.relative_path contains tab_folder" | sort: "order" %}
   <div
     class="research-panel{% if forloop.first %} is-active{% endif %}"

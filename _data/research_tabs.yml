@@ -1,1 +1,8 @@
-../_pages/_research/tabs.yml
+- id: political-economy
+  label: Political Economy
+
+- id: political-behavior
+  label: Political Behavior
+
+- id: political-methodology
+  label: Political Methodology

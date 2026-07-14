@@ -37,7 +37,7 @@ Move the file into the other tab’s folder. Update `order` there if needed.
 
    `comparative-politics/`
 
-2. In [`tabs.yml`](tabs.yml) (this folder), add:
+2. In [`tabs.yml`](tabs.yml) (this folder), add the tab. Then copy the same change into [`_data/research_tabs.yml`](../../_data/research_tabs.yml) — GitHub Pages only auto-loads YAML from `_data/`.
 
 ```yaml
 - id: comparative-politics
