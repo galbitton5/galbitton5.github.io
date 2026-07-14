@@ -109,18 +109,8 @@ Welfare Deservingness
   </div>
 </div>
 
-Elections, Accountability, and Public Opinion
+Banking, Blame, and Democratic Accountability
 ----
-<div class="project">
-  <p class="project-title">“Rally Around the Winner – A Two-Wave Panel Survey on the Impact of the U.S. Election on Foreign Policy Stances.” 2025. (<em>International Journal of Public Opinion Research</em>). With Eyal Rubinson. </p>
-  <p class="project-links">
-    <a class="toggle-abstract">▶ Abstract</a>
-  </p>
-  <div class="abstract">
-    <p>Do electoral outcomes influence public support for the winning candidate’s policy agenda? While voters are often assumed to evaluate candidates based on policy alignment, research suggests that partisan identity frequently overrides rational assessment. However, the extent to which the identity of the electoral winner legitimizes policy positions – particularly in the field of foreign policy – remains underexplored. This article leverages the 2024 U.S. presidential election as a natural experiment, using a pre-registered two-wave panel survey to assess whether electoral victory influences public perceptions of the winning candidate’s platform. Results reveal a moderate ‘winner effect’: Democratic voters exhibited an increase in support for Trump’s foreign policy positions post-election, while support for Harris declined, even among her base. Nevertheless, winner effects produced shifts in foreign policy preferences commensurate with those on a highly salient domestic issue, challenging assumptions about greater volatility in foreign policy. Furthermore, pre-election candidate support conditioned post-election stability, with winning-party supporters maintaining greater consistency. While electoral victories enhance the perceived legitimacy of the winner’s platform, partisan identity remains the primary constraint, limiting large-scale ideological realignment.</p>
-  </div>
-</div>
-
 <div class="project">
   <p class="project-title">“Blame Attribution and Blame Shifting to International Organizations.” With Tal Sadeh, Benjamin Daßler, and Yuval Hirshorn. </p>
   <p class="project-links">
@@ -133,16 +123,15 @@ Elections, Accountability, and Public Opinion
 </div>
 
 <div class="project">
-  <p class="project-title">Banking and Ballots: Adverse Banking Conditions and Support for the Government” With Yuval Hirshorn, Tal Sadeh and Benjamin Daßler. </p>
+  <p class="project-title">Banking and Ballots: Adverse Banking Conditions and Support for the Government.” With Yuval Hirshorn, Tal Sadeh and Benjamin Daßler. </p>
     <a class="toggle-abstract">▶ Abstract</a>
   <div class="abstract">
     <p>Do people blame their government for adverse banking conditions, such as limited access to credit and unfavorable service terms? Will they also hold it accountable for such events outside periods of economic downturn? In the face of extensive research focusing on economic and banking crises as encompassing mechanisms of economic voting and protest, we argue that people’s daily experiences with banks provide them with tools and opportunities to recognize adverse banking outputs also in routine times, and to attribute responsibility for that to the government. We implement two studies to support this argument. Study one is a conjoint survey experiment conducted in Germany (a less likely country for blaming the government for bank failures). It is aimed at uncovering the causal effect that adverse banking conditions—both bad personal experiences and tax-funded bank bailouts—have on people’s preferences in choosing incumbents in elections. The design enables separating these effects from those of individual- and national-level economic distress. Study two is a large-scale comparative analysis of observational data from more than 100 democracies over 32 years. We proxy for low access to bank credit and poor bank service using data on bank losses, which also occur outside of crisis periods. We show how it significantly decreases electoral support for incumbents and increases participation in anti-government protests. We also provide evidence that bank losses are a suitable proxy—people are aware of them, they are not mere reflections of the business cycle, banking crisis, or other economic events, and they affect individuals more in countries in which the responsibility of the government is more easily detectable. Thus, our answer to both questions asked here is yes—people do blame their government for adverse, non-sensational banking conditions, and they do it especially outside periods of economic downturn. These conclusions, we believe, make an important contribution to both economic voting and banking politics literatures.</p>
   </div>
 </div>
 
-Political Trust and Electoral Behavior in Crisis
+Political Trust, Legitimacy, and Electoral Behavior
 ----
-
 <div class="project">
   <p class="project-title">“Shifting Sands? The Impact of Conflict Displacement on Voting Patterns.” (<em> Political Studies, Forthcoming </em>) </p>
   <p class="project-links">
@@ -151,6 +140,16 @@ Political Trust and Electoral Behavior in Crisis
   </p>
   <div class="abstract">
     <p>Does exposure to conflict displacement amplify support for far-right parties? This study investigates the political consequences of conflict-induced displacement in northern Israel by exploiting a natural experiment arising from government-ordered evacuations during military conflicts. Using a pre-registered survey and a regression discontinuity design (RDD) based on an exogenous 5 km threshold, I assess changes in retrospective and prospective voting behavior as well as self-reported political ideology. The analysis reveals no evidence that displacement increases far-right support or induces partisan realignment. Rather, evacuees demonstrate a modest rightward shift in ideological self-placement without corresponding changes in voting behavior. This divergence suggests that displacement influences symbolic political positioning while preserving established partisan loyalties. These findings occur within a broader pattern of political frustration and disengagement—pointing to heightened disillusionment with the existing political establishment. These findings reveal troubling implications for democratic accountability during external conflict: leaders may be shielded from electoral consequences of security failures even as civic engagement deteriorates, challenging models of wartime accountability.</p>
+  </div>
+</div>
+
+<div class="project">
+  <p class="project-title">“Rally Around the Winner – A Two-Wave Panel Survey on the Impact of the U.S. Election on Foreign Policy Stances.” 2025. (<em>International Journal of Public Opinion Research</em>). With Eyal Rubinson. </p>
+  <p class="project-links">
+    <a class="toggle-abstract">▶ Abstract</a>
+  </p>
+  <div class="abstract">
+    <p>Do electoral outcomes influence public support for the winning candidate’s policy agenda? While voters are often assumed to evaluate candidates based on policy alignment, research suggests that partisan identity frequently overrides rational assessment. However, the extent to which the identity of the electoral winner legitimizes policy positions – particularly in the field of foreign policy – remains underexplored. This article leverages the 2024 U.S. presidential election as a natural experiment, using a pre-registered two-wave panel survey to assess whether electoral victory influences public perceptions of the winning candidate’s platform. Results reveal a moderate ‘winner effect’: Democratic voters exhibited an increase in support for Trump’s foreign policy positions post-election, while support for Harris declined, even among her base. Nevertheless, winner effects produced shifts in foreign policy preferences commensurate with those on a highly salient domestic issue, challenging assumptions about greater volatility in foreign policy. Furthermore, pre-election candidate support conditioned post-election stability, with winning-party supporters maintaining greater consistency. While electoral victories enhance the perceived legitimacy of the winner’s platform, partisan identity remains the primary constraint, limiting large-scale ideological realignment.</p>
   </div>
 </div>
 
