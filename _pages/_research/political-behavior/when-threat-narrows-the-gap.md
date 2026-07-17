@@ -5,7 +5,7 @@ order: 4
 Political Violence and Threat
 ----
 <div class="project">
-  <p class="project-title">“When Threat Narrows the Gap: Terror Exposure and the Ideological Convergence of Surveillance Support.” With Daphna Canetti, Giulia Dal Bello, Julia Elad-Strenger, and Sivan Hirsch-Hoefler. (<em>Under Review</em>) </p>
+  <p class="project-title">“When Threat Narrows the Gap: Terror Exposure and the Ideological Convergence of Surveillance Support.” With Daphna Canetti, Giulia Dal Bello, Julia Elad-Strenger, and Sivan Hirsch-Hoefler. </p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
