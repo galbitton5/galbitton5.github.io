@@ -3,7 +3,7 @@ order: 6
 ---
 
 <div class="project">
-  <p class="project-title">“When Does War Exposure Become Political Violence? Distress, Cognitive Flexibility, and Domestic Violent Intentions.” With Daphna Canetti, Sivan Hirsch-Hoefler, and Tal Shaanan. </p>
+  <p class="project-title">“When Does War Exposure Become Political Violence? Distress, Cognitive Flexibility, and Domestic Violent Intentions.” With Daphna Canetti, Sivan Hirsch-Hoefler, and Tal Shaanan. (<em>Under Review</em>) </p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
