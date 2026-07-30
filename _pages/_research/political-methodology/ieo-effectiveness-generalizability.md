@@ -5,7 +5,7 @@ order: 1
 Methodological Innovations
 ----
 <div class="project">
-  <p class="project-title">“Are findings of research on the Effectiveness of International Economic Organizations generalizable?” With Tal Sadeh and Bernhard Reinsberg. </p>
+  <p class="project-title">“Are findings of research on the Effectiveness of International Economic Organizations generalizable?” With Tal Sadeh and Bernhard Reinsberg. (<em>Under Review</em>) </p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
