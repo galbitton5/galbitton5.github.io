@@ -3,7 +3,7 @@ order: 5
 ---
 
 <div class="project">
-  <p class="project-title">“Terror, Interstate Conflict, and the Politics of Restraint: How Different Forms of Violence Shape Foreign Policy Attitudes.” With Keren Levy Ganany Snider, Amit Cohen, and Daphna Canetti. </p>
+  <p class="project-title">“The Politics of Restraint: Violence Exposure and Foreign Policy Attitudes Across Conflict Phases.” With Keren Levy Ganany Snider, Amit Cohen, and Daphna Canetti. </p>
   <p class="project-links">
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
