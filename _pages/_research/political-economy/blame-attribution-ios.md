@@ -5,7 +5,7 @@ order: 6
 Banking, Blame, and Democratic Accountability
 ----
 <div class="project">
-  <p class="project-title">“International Authority and Electoral Accountability.” With Tal Sadeh, Benjamin Daßler, and Yuval Hirshorn. </p>
+  <p class="project-title">“International Authority and Electoral Accountability.” With Tal Sadeh, Benjamin Daßler, and Yuval Hirshorn. (<em>Under Review</em>) </p>
   <p class="project-links">
     <a href="https://osf.io/4afq8/" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a class="toggle-abstract">▶ Abstract</a>
