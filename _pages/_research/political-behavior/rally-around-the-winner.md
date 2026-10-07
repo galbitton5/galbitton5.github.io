@@ -5,6 +5,7 @@ order: 2
 <div class="project">
   <p class="project-title">“Rally Around the Winner – A Two-Wave Panel Survey on the Impact of the U.S. Election on Foreign Policy Stances.” 2025. (<em>International Journal of Public Opinion Research</em>). With Eyal Rubinson. </p>
   <p class="project-links">
+    <a href="https://academic.oup.com/ijpor/article/37/3/edaf040/8245712" target="_blank">[Manuscript]</a>
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
   <div class="abstract">
