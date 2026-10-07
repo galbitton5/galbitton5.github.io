@@ -5,8 +5,9 @@ order: 1
 Political Trust, Legitimacy, and Electoral Behavior
 ----
 <div class="project">
-  <p class="project-title">“Shifting Sands? The Impact of Conflict Displacement on Voting Patterns.” (<em> Political Studies, Forthcoming </em>) </p>
+  <p class="project-title">“Shifting Sands? The Impact of Conflict Displacement on Voting Patterns.” 2026. (<em> Political Studies </em>) </p>
   <p class="project-links">
+    <a href="https://journals.sagepub.com/doi/full/10.1177/00323217261485652?casa_token=cID6L2JqHv0AAAAA%3AIHX5BXwomFuZep6OgHz_mNy79sMc1u4lScKW9P3-GIf5U--g576Vl-jfALQsZVJn4Xgmx9igMCApCA" target="_blank">[OnlineFirst]</a>
     <a href="https://osf.io/6sknz" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a class="toggle-abstract">▶ Abstract</a>
   </p>
