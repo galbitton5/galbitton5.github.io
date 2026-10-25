@@ -5,7 +5,7 @@ order: 4
 Welfare Deservingness
 ----
 <div class="project">
-  <p class="project-title">“When Effort Is Not Enough: Political Identity and Welfare Deservingness in a Polarized Society.” With Clareta Treger. (<em>Revise & Resubmit, Journal of European Public Policy </em>)</p>
+  <p class="project-title">“When Effort Is Not Enough: Political Identity and Welfare Deservingness in a Polarized Society.” With Clareta Treger. (<em>Forthcoming in Journal of European Public Policy </em>)</p>
   <p class="project-links">
     <a href="https://osf.io/7bgzm/" target="_blank">[Pre-registration and pre-analysis plan]</a>
     <a href="https://osf.io/preprints/osf/upqs8/" target="_blank">[Pre-print]</a>
